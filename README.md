@@ -1,5 +1,16 @@
-# Segmentation_Strategies_Maastricht_University #
-#B.A. thesis - Maastricht University#
-##Mihai-Andrei Tudor##
+# Segmentation Strategies
+##B.A. thesis - Maastricht University
+###Department of Data Science and Knowledge Engineering
+###Mihai-Andrei Tudor
 
-Full results: https://docs.google.com/presentation/d/1WqdPUqvJ0g0qn6PVGymANBHndMhTnmZ1AXZiSIEHcNo/edit?usp=sharing
+Complete results and additional graphs: https://docs.google.com/presentation/d/1WqdPUqvJ0g0qn6PVGymANBHndMhTnmZ1AXZiSIEHcNo/edit?usp=sharing
+
+Toolkit_1: https://github.com/NickWilkinson37/voxseg
+
+Toolkit_2: https://github.com/ina-foss/inaSpeechSegmenter
+
+Toolkit_3: https://github.com/wiseman/py-webrtcvad
+
+mTEDx test and validation corpora: http://www.openslr.org/100
+
+Manual Segmentations and reference translations can be found in the corresponding sets.

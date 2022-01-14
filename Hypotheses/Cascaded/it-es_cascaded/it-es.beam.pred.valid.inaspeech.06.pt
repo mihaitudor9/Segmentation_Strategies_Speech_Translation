@@ -1,0 +1,1372 @@
+En el año 2016, me presentó un premio, desde la National Fortiching Learning, aportado al Ministerio de Educación en Irlanda, por nombre un poco particularmente, nace un altísimo nivel de giro.
+La motivación de ese premio fue mi disponibilidad en los confrontos de los estudiantes y mi capacidad de crear entornos de datos.
+Más graduados, más desilusionados, imaginemos que esto es...
+Una gran clase universitaria.
+Entonces, solito entro en clase.
+Los primeros diez minutos, cuando entran los estudiantes.
+Sí si siete.
+Refecto con el ego, mi ordenador al electrodoméstico y me pongo una música clásica.
+Y creo que ese es el primer paso para generar entornos de datos, menos formas más rentables, y tratar de mantener al alcance de los estudiantes.
+Lamentablemente no siempre es fácil.
+Bueno, durante mis clases uso un método usado por fin de la anticüedad.
+Historiatelling.
+A nivel pedagógico, contar es un método basado en el uso de narrativa.
+Para transmitir conocimiento a los estudiantes.
+Y justamente con este método que quisiera empezar mi lección, explicándoles, describiendo un tema en la boca de todos, ya.
+inteligencia artificial.
+Como todas las historias que se cuentan a los niños, me gustaría empezar mi historia.
+Había una vez.
+Segunda Guerra Mundial.
+1942.
+Tonto un poco.
+Parque Black.
+Una...
+Residencia norte de Londres.
+Había un joven, trentinno.
+Alan Turing.
+Alansey Laurea, aquí en la escuela de Cambridge.
+Y obtuvo un dotado de investigación en la lógica, la universidad Príncipe, los Nomeres.
+En ese momento los títeres usaban un auto.
+Especialmente.
+Enigma.
+Era una máquina de escribir.
+La operación digital de gustos.
+Pero, más bien que estampar en un papel.
+Los taccos, esas letras se estampan otras letras, segundo.
+Una codificación impulsada mecánicamente bajo el cámara.
+Losedes usaban este mecanismo.
+Para comunicarnos con ellos.
+Pero cualquiera que se interrumpía en este papel tenía delante de uno mismo un texto sin sentido.
+Se criticaba.
+Alan Turing.
+Fue uno.
+Una de las cifras principales de "black".
+Con su equipo.
+Y los he construido un auto.
+Es la que podéis ver.
+Dietro, grado de...
+Decifrar.
+Con estos testículos escritos del ITDESC.
+Por esta invención se piensa que la guerra está terminada con dos años de anticipación.
+Estamos llegando a muchas de las vidas humanas.
+Alan Turing sigue después de la guerra haciendo sus ingresos lógicos.
+Y se consideró el padre de la informática, el padre de la inteligencia artificial.
+¿Con su máquina de Turing?
+Y los entran en práctica el tema de la computadora, antes de que el ordenador se pusiera en práctica.
+Y en 1950.
+publica un artículo de la revista mente.
+La computadora y la máquina aprendiendo.
+Dove propone tu test.
+La pregunta detrás del testing es una bien precisa.
+Podría pensar las máquinas.
+Desde aquí empezó la inteligencia artificial.
+Probablemente muchos de Uds. hayan visto la película de "MT juego", el juego de la animación, les quiero contar.
+¿Son Uds. más personas?
+El pedacito es tener un ordenador.
+Que pregunta que ponga preguntas, y por otra parte de la terminal, una máquina M.
+Es un operador oo.
+De manera alternada, la máquina M y la computadora O.
+Van a dar las respuestas a la persona P.
+(Risas) Se dice que la máquina Mapa supera que Testituring si la persona P no es capaz de entender cuando las respuestas provienen de la máquina y cuando las respuestas provienen de la operación.
+Este es el juego de limitación.
+El aparato tiene que poseer, tiene que tener características especiales para superar la testitud.
+Debemos interpretar el lenguaje natural.
+La pregunta ¿quiénes vienen de la persona?
+Tiene que representar el conocimiento para formular las respuestas.
+Hay que razonar de manera automática para formular esas respuestas.
+Y tiene que aprender de manera automática.
+Hay diferentes ganancias.
+Para estudiar inteligencia artificial.
+Uno de estos es el objetivo cognitivo.
+Se basa en el pensamiento humano.
+Según este enfoque hay dos maneras para estudiar el pensamiento humano, o se intenta pegar los pensamientos.
+En el momento en el que suceden.
+O se intenta cambiar los pensamientos a nivel psicológico.
+Por eso se dice que inteligencia artificial está estrechamente conectada a las ciencias neuronales cognitivas y la psicología.
+Según este asunto, la asunción que si somos capaces de tener una representación fedal del pensamiento humano, entonces la podemos transferir en un auto.
+Otra cosa es la idea de las leyes del pensamiento racional.
+Probablemente muchos de Uds.
+Se han escuchado hablar del silenciismo de Aristóteles.
+Sócrates es un hombre.
+Todos los hombres son mortales.
+Sócrates es mortal.
+Este es un argumento de destructivo.
+Dos premios.
+Feritera.
+Se deduce una conclusión verícula: de aquí nace la lógica detutiva, según el objetivo de las leyes del pensamiento.
+Se trata de construir aromitas deductibles.
+Y metido en un auto.
+Otra pregunta es la idea de las agentes racionales.
+¿Un mundo racional?
+Mentidad.
+(Risas) Hay que actuar.
+Debemos adaptarse a eso.
+Hay que tener metas.
+¿Y saber traer los terminos?
+Y tiene que actuar de manera racional.
+Entonces, la prueba de Turing está relacionada con los objetos inteligentes.
+Pensando en la frase de Turing, una máquina puede pensar.
+¿Podemos decir: ¿Podemos hacer una máquina?
+Un agente artificial.
+Podríamos pensar.
+Escuchar la inteligencia y la racionalidad.
+Así que inteligencia artificial tiene la propósito de crear entidad.
+Artificios inteligentes: vuestro teléfono es una entidad.
+Con la construcción de entidades artificiales se intenta entender la inteligencia, como construcción psicológica.
+Una vez que tenemos un conocimiento mágico.
+Por eso...
+¿Verdad?
+Se trata de construir entidad.
+Artificios inteligentes se apoyan del hombre.
+Es un ciclo.
+¿Pero vemos hoy?
+Si las máquinas pueden pensar.
+Me gustaría explicarles cómo describirles un poco el estado del arte, de la inteligencia artificial, y me gustaría usar.
+Cincuenta clásicos para clasificar agentes artificiales, según su capacidad.
+Tenemos agentes subterráneos.
+Para unaneo.
+Humanos.
+¿Somos humanos?
+Después tenemos los elementos óptimos.
+Quiero contarles un ejemplo.
+Agentes optimistas son los agentes que mejor trabajan con todos los hombres.
+Y no me puedo hacer.
+Por ejemplo, los agentes que van a resolver el cubo de Rubik juega una fuerza cuatro en el mejor modo, jugando una triste, piensen que hace unos años un chico ha caído.
+El dato fue el estado inicial del cubo de Rubik, lo resolvió en 4.73 segundos.
+Cualquier mes ha creado un agente, un robot que capaz de resolver el incierto, de 63 segundos.
+¿Tenemos a los actores Subraumanos?
+Que actúan mejor de todas las personas.
+Por ejemplo, es un juego de los escalones.
+En juego del paisaje.
+Hace algunos años, el campamento es...
+El rostro de escacks, escarpar, paisaje, alcanzado por una gente artificial.
+Tenemos a los seres humanos.
+Los que existen casi como todas las personas, por ejemplo en el juego del pan Texano.
+La pregunta de adquisición va a responder.
+Tenemos gente a Internet.
+¿Qué actúan?
+Y casi como todas las personas.
+Por ejemplo.
+En actividades cognitivas como las palabras se cruzan.
+¿O la clasificación de imagen?
+Y por último tenemos submarinos que sufren peor de todas las personas.
+Los ejemplos son la clasificación de objetos.
+El reconocimiento de la caligrafía, el reconocimiento vocal, la traducción de una lengua a otra.
+Pero si hay algo que los agentes artificiales hoy no son capaces de hacer, por ejemplo, es una disambulación.
+Estamos hablando del fruto.
+¿Cómo es esto?
+La mía.
+¿Qué estamos hablando?
+Es el marca de Apple Corporation.
+Y una cosa que los agentes no son capaces de hacer es el razonamiento en el mundo ideal, en situaciones de incertidumbre.
+Estos son los principales límites de la inteligencia artificial por la que pensamos que estamos lejos de superar el test.
+Vamos a verlo ahora en el futuro.
+Podrían pensar las máquinas.
+¿Qué año hace?
+En América se ha introdo un tema.
+El nombre monolaridad tecnológica: Ray Kurzvalle, uno de los más grandes.
+Espertos de inteligencia artificial al mundo.
+Imaginaos la línea del tiempo.
+Imaginaos una línea.
+¿Qué indica la inteligencia humana ascendente?
+Ahora imagínense.
+Una línea roja que indica la inteligencia máquina.
+Con un andamio esponcial.
+Ese es un momento sigue.
+El abandono.
+Previsto en la ley de muro.
+Por eso...
+La complejidad computacional, por ejemplo, mide con el número de transistores dentro de un chip, hace dos años que se reproduce cada cuatro años.
+Según Ray Kurzweil, en el 2010 teníamos que ser capaces de...
+Hago esta complejidad computacional para simular el cerebro humano.
+Yo no necesito.
+En el año 2020, tendríamos que acceder a mil dollarios a esta capacidad computacional.
+En 2025, según horas y cruciales, pero nunca pueden ser capaces de cenar de forma precisa nuestro cerebro.
+Y finalmente, en 2029.
+Las máquinas van a pasar el test, van a superar el test turístico.
+¿Y después?
+En 2045 yindica el momento en el que será la monolaridad tecnológica.
+En la que las máquinas seguirán la inteligencia de las máquinas y seguirán un andamio exponencial que cambiará radicalmente.
+La inteligencia humana.
+En su artículo.
+He publicado en la revista mental.
+Turing.
+No solo le propuse su test.
+Pero también propone nuevas objeciones.
+Contro su propio test.
+Estas objeciones son nosotros y acciones contra la inteligencia artificial.
+¿Qué año hace?
+Eran estudiantes de la Universidad de Varese.
+(Risas) Seguí un curso de epistimología, deontología y ética de la informática, llevada por el profesor Gai Tano a la oreja Lanzerone.
+Desafortunadamente nos dejó hace un año, uno de los elementos que teníamos que hacer era proponer una de las obejas.
+Con el test de Turing, contra la inteligencia artificial, yo fui el único que propone...
+Una de las objeciones formuladas con una comunicación matemática.
+La anécdota es una tonteridad humana.
+Después lo quiero describir en términos sencillos, suponemos que coger la inteligencia de todas las personas.
+Dime la semilla.
+El símbolo de suministro de las ecuaciones es el símbolo.
+Y transferimos toda esta inteligencia dentro de un auto.
+Entonces nos quedamos quietos.
+Una desigualdad de inteligencia, pero de alguna manera la máquina se hace más inteligente de nosotros.
+¿Pero si es cierto que hemos sido nosotros?
+Aferrar nuestra inteligencia dentro de un auto.
+Y esto se hace más inteligente que nosotros.
+Además, es verdad que dejamos que el auto se convierta más inteligente que nosotros.
+Entonces, ¿para terminar mi historia?
+Vamos a irnos a la pregunta inicial.
+Podría pensar las máquinas.
+Ahora les voy a dejar.
+Con una pregunta abierta.
+Realmente tiene sentido dejarle pensar.
+Gracias.
+Buenas tardes.
+Pero ¿cuántos de vosotros hoy han podido sacar fotos?
+Crazio.
+Muy bien.
+Bueno, esto me da más o menos la medición de no haber trabajado completamente a mano, y he salido a todos, me llamo los renos, es decir, un periodista que se encarga de la fotografía, soy el director creativo de un estudio que se ocupa de fotografía, y soy una persona que hace bastantes fotos con su propio teléfono, que no hace absolutamente nada de mí en una fotografo, he pasado los últimos tres años.
+Esta soy yo, sumergida en mis carteles, a cuidarme de una materia líquida, le llamé las fotografías, es decir, la fotografía productiva y difunde a través del teléfono celular.
+Sus límites, sus contradicciones, sus potencialesidades, su impacto en el mercado, su uso proyectal y autor.
+Pero qué sentido puede tener, tratar de entender un contemporáneo tan contemporáneo que cambia mientras nosotros estamos aquí discutiendo, esta es una de las preguntas que me he hecho en estos tres años y que me interesa compartir con Uds. esta, pero hay muchas otras, de qué manera la móvil cambia los procesos a través de los que comunicamos.
+Podemos pensar en el móvil fotografías un nuevo lenguaje para influir tanto en la visión como en la práctica de la complicación: el conocimiento tecnológico que hay.
+En la producción de un escenario, parte de un fotógrafo profesional.
+Hace todavía la diferencia entre el simple gesto de tener un pulsador es smartphone.
+¿Y en qué manera las fotografías cambian las formas y laestructura de la fotografía profesional?
+Para encontrar respuestas a estas preguntas, traté de enfrentarme.
+Con fotogrimas, rappurantes, críticas, teorías, que merecen a la móvil fotografías habían tenido la manera de elaborar experiencias y reflexiones.
+A las fotografías profesionales que, ya hace diez años, han abrazado el reto de este nuevo medio.
+Les pedí que compartan conmigo la anatomía de sus proyectos, de sus decisiones formales, de sus experimentos de compartir sus imágenes con el móvil.
+Para encontrar respuestas me miraron a mi alrededor.
+Y llegaron a Nueva York.
+En el DESC de la foto y editor de Nueva York Times Magazing, que se tira.
+¿Un Berlín?
+En la sección de AIM, uno de los mejores actores del nuevo mercado del Mobin Stock.
+En Parigi.
+En la sal de Parifoto, una de las más prestigiosas trust de fotografía en el mundo.
+Para entrar en esos lugares en los que se distribuye la fotografía, se vende, se pone en contacto, y entender de qué manera el móvil las fotografías cambia estos ingranajes.
+Para encontrar respuestas, traté de mirar más allá.
+Estre la superficie de los grandes lugares comunes, visibles del contemporáneo.
+La selfie, por ejemplo.
+La selfie es simplemente ayudar a un delirio narcisista global y también pensarse correlados, como algunos sociólogos han escrito con las tasas de administración de la generación de los millennials, o no puede ser visto como una saludable de salud.
+Como un asentamiento identitario.
+Como una sobería refrigeraba su imagen, como se reivindica con la ilusión de ver el artista femenino como Keitard Ben.
+Olví a Sholaga.
+Es la estética terminal que ha asimulado y que todavía sigue siendo nuestra visión de los móviles.
+Este es mi perro casi, víctima, dibujada por mis experimentos fotográficos, es simplemente el fruto de una epidemia mundial de gusto.
+O, sin embargo, como sostiene el sociólogo Bornada en Nueva Yorkenson, no puede ser letada a la gimnasia de más complejos factores, de naturaleza social, económica, incluso económica.
+Pero la fotografía, yo creo, no es el territorio de las respuestas, es el territorio de las interpretaciones.
+Y de este fenómeno, he intentado dar una interpretación en un libro.
+Porque se llama "La Revolución", compuesta por una historia de la móvil fotográfica, porque frente al flujoremento de imágenes a las que estamos esposos me pareció útil probar un mapa, si no para encontrar la rota, al menos para entender a qué punto somos.
+¿Y hasta qué punto somos?
+Pero la historia de Mobile fotografías es muy breve, pero en pocos años ha involucrado millones y millones de personas.
+Una nueva codificación que supera cada barriera lingüística, que usamos todos los días para comunicarnos, testimoniosar, manifestarnos a nosotros mismos, alimentar un flujo costo de imágenes que ponga en comunicación los individuos de un ángulo al otro del planeta.
+Tengo un diálogo global, tengo un monumento colectivo, si queréis, que tiene números impresionantes.
+Cada dos minutos, hoy, vamos a tener más imágenes de cuánta humanidad ha caído en el avión de darnos el siglo.
+Entre 150 millones de estas imágenes son caricaturas cada día en Facebook, más de 70 millones en Instagram.
+La producción y la diffusión de imágenes, de actividad que hasta hace algunos años era la fecha más o menos de profesionales.
+Se convirtió en una experiencia cotidiana de relacionación con nuestra experiencia cotidiana.
+Una forma de interacción social.
+Una canción de búsqueda de nuestro desapego privado en la dimensión pública.
+En lo que nos definimos a través de las imágenes que producimos.
+O mejor.
+Escuchamos por qué producimos imágenes.
+Y si la móvil es un nuevo lenguaje, entonces es la lengua madre del hombre ahí.
+En un contemporáneo que todavía es muy marcado por ese proceso de investigación.
+De las certezas, que fue tan brillante que detectó el filósofo Zygmunt Pound.
+Es como un típico de una modernidad, la euforestructura, el trabajo, la familia, la coppia, cada vez son más vacantes, y aquí están puntos intables en un universo en movimiento, spontados de frente a la media de los mensajes que los apoyan de todos los días.
+El flujo del móvil fotografías parece la forma de expresión más natural.
+Una visión líquida que se compone y te compone.
+Por lo tanto, se basa simplemente en la gratificación instantánea de nuestra necesidad de compartir.
+Pero en un mundo en el que cada uno, en cualquier momento, puede registrar y compartir cualquier evento con su teléfono celular.
+¿Qué es lo que queda el fotógrafo profesional?
+¿Y qué diferencia pasa con fotografías occidentales y fotografías conscientes?
+Por un lado, la facilidad de usar la cámara del teléfono móvil ha convertido la fotografía de mestoros para profesionales del lenguaje universal.
+Tomando en cuenta el proceso de democratización de la fotografía.
+Empecé con la era Kodak y llegó hasta la IFO.
+¿De otra parte?
+El uso del celular como herramienta de recuperación que ofreció a los fotógrafos profesionales.
+Nuevas posibilidades en llegar a las historias, a los cuentos, a los sujeto.
+Ancora, da una parte.
+La apertura a todos, a todos nosotros, de una orquesta de diálogo, con un auditorio potencialmente global, ha impulsado el fotógrafo profesional de su lado exclusivo.
+Como redacción y distribución de imágenes.
+Se ha centrado en crisis la función social, la posición del cono.
+Solo hay que pensar en el papel que ha tenido la móvil fotografías y redes sociales en la primavera árabe.
+Distrando de ser.
+Una herramienta poderosa para orientar la opinión pública es capilar fuente de máquinas y información dificilmente controlable de los reginos.
+Esta es una imagen de Cairo Pensiti, una muestra que el museo "Folfang de Assen" ha dedicado al papel del Mobile fotográfico en la Prima Vara.
+Pero por otra parte, ¿no?
+Se imaginan que la posibilidad de interacción directa a través de Internet, a través de Instagram, entre el fotografo y la audiencia, ha liberado el fotografo del pasaje obligado.
+Para las manos del E.A.
+Desde el editor, lo liberó de la necesidad de adaptarse a una plataforma política, a una línea editorial de los demás, y no siempre en base a prioridades periodistas.
+La he liberado de la imposibilidad de alcanzar los destinatarios de su mensaje, si no a través de canales tradicionales, como es decir, de información, de revista, de periódicos, galerías, de acceso y de recursos limitados.
+Y les permitió ponerse directamente en el flujo de las News, pisando.
+¿Serán visitas en tiempo real, un ejemplo especialmente interesante?
+La ofreció la revista Time en 2012, con la tapa por Instagram y postear directamente en tiempo real a través del mecanismo de T-E-COber sus propias imágenes delineando así un nuevo modelo de Newsmaking y viendo al periodismo la realidad en periodismo.
+Esto es el maquillaje delipro que tuvo origen tras este experimento, y si es cierto que en la radisna "Psat", nos fotografiamos compulsivamente, una cantidad de fotografías de haluna superiores a la que somos capaces de recordarnos, y es cierto que en esa misma época se construyeron nuevas formas de conservación de la memoria homosexual en el que leenla y la fotografía y la sociedad en Novecento.
+O nacen hombres.
+En dos viajes de selección de gobierno, como 14-15 fotógrafos móviles, un espacio internacional para trabajos autoriales, productos y distribuidos a través del iPhone, creado por dos fotografías profesionales y nocturnas, y existe un trabajo de evaluar en la acantinidad, en narrativa, alrededor de un tema.
+Pero luego están las fotografías, en los últimos años, han operado esta herramienta con un mayor conocimiento autoritario.
+Soy fotógrafos como nunca Cristó Fer Brown.
+Dengami Lowi.
+Mona V.
+Que han usado y usan el smartphone en territorios de conflicto, demostrando que la agilidad y la discreción del medio puede hacer la diferencia en fines de seguridad personal y calidad del aprendizaje.
+Photografías informáticos que a partir de un simple smartphone ha explorado nuevos caminos para el New Smadeking, creando una plataforma BayStrek para poner en contacto a los soldados americanos de estación en el sur de Fidanistán con sus familias y así crear un motor de información desde la primera mano.
+Pread Mengin, que es el que ha utilizado para la fotografía deportiva, territorio exclusivo, de fotografía, para conciertos hiper-performantes, y ha hecho un vehículo de narración intima y minimal sobre la mayoría de las leyes básicas.
+Richarch Corte Ernandt, que además aprovechó la discreción y la bondad en la calle fotógrafa, creando una estética personal pequeña.
+Les voy a retirar que él hizo un vehículo de denuncia, dando vuelta a la comunidad afroamericana de Brooklyn, y creando una Comunidad activa y integrada a su trabajo.
+Las personas que lo usan cotidianamente para construir su álbum de familia, buscando una reflexión sobre cómo Instagram cambia los relatos de nuestra privad y la manera en que lo restamos y conservamos nuestra memoria visual.
+El Peter de Campo, que a través de la cuenta Everest de África, dedicada al cuento de una África cotidiana y normal, además de estereotipos mediáticos de matriz occidental sobre la crisis y la famosa, demostraron también para poner en contacto los estereotipos fotovoltaicos.
+Como son los Luíes que han rechazado el de sia de homenaje con el celular, contando en la serie AI, que es uno de los patrones más antiguos de la historia del Occidente con la herramienta de visión más nuevo.
+O como lo han hecho los Lord Linde, que ha fotografiado a manifestantes sucesos en la plaza, aquí está, durante las protestas de Mai-Tan, con una antigua bronica puzzada, y contemporáneamente ha registrado su propio celular el momento en el que el captador de la bronca se relaja y nace la imagen.
+Bueno, ¿qué sabemos hacer estas fotografías, que no sabemos hacer?
+Reconocer caminando a la periferia de la acción o buscando desigualdades que visionen muchísimos de los bienes.
+Hay que saber más que registrar.
+Creando imágenes que nunca han salido de la realidad, pero que aparecen desde una interacción profunda entre fotografo y contesto, entre fotografo y sujeto.
+Contaminar creativamente los códigos de la historiatelling, diseñar en una ética muy grande, pensando y realizando sus propios contenido para ser difundidos en plataformas diferentes y alcanzar audiencia diferente.
+Ser red, utilizando las conexiones de manera innovadora.
+Poner en el ejercicio físico por su punto de vista sobre el mundo.
+Y la calidad del aprofondimiento.
+Porque cualquier persona sea la herramienta de recuperación precedente.
+Solo que si la interaectoria fotográfica es sorda por una escritura solida, articulada de forma puerente.
+Uno puede distinguirse.
+Y desde el ruido visual de fondo que me lo cuento.
+Todo esto lo creo.
+Otra vez hace la diferencia entre una fotografía, ¿qué es?
+Me acuerdo de lo real.
+Su burbuja, retrodución, su auto-resistencia y compartida.
+Y una fotografía que en realidad puede ser todavía una poderosa metafora cultural.
+¿Lo sentís?
+¿Lo sentís?
+Lo que creemos nosotros es estar silencio.
+En realidad, son 50 centavos de corriente eléctrica.
+Hacen falta 50 tercios que han entrado en la mente.
+En nuestras vidas.
+El despertarnos por la ilusión que existe el silencio.
+Un correo.
+No existe.
+Y por lo tanto, en esta sala, también, aquellos proyectores.
+Estos pantallas.
+Y ponerlo una frecuencia de 50 Hers.
+Entonces vos imaginás, no, te vas a casa después de una revista de trabajo realmente estresante.
+Ponés con tu pareja, con tu pareja, en el otro, y luego te subás a la cama en la cama y pensás que estás solo.
+Y no.
+Siempre hay ley.
+Esta frecuencia de 50 Hers.
+Que simplemente he aumentado de volumen.
+Porque es imperceptible en nuestras casas, en nuestras vidas, pero hace más o menos eso suena.
+Tenemos un aspecto positivo.
+O mejor, parto antes del aspecto negativo: el silencio no existe.
+Pero tenemos un punto positivo.
+Nunca estamos solas, es decir, esta hermosa corriente, esta frecuencia de 50 Tierra que nos acompaña.
+Me encanta.
+Fueranoiosa.
+Y si la vemos como un dibujo, esta frecuencia de 50 terceras partes no es otra que unaonda sonora, unaonda sonora con un espectro muy bonito, con el que se puede hacer música, y entonces me apoya: ¿por qué?
+¿Por qué tenerla así, por qué no hacer música?
+Pues bien, soy una composición de colonias sonoras, un artista sonora, un poco particularmente porque me han complicado la vida decidiendo hacer música solo y exclusivamente a través del ruido.
+¿Los padres?
+Divoraban cuando era pequeña.
+Y...
+Lo sé, Uds. creen que esta es la clásica historia híperas, pero no, fue la revelación de mi vida.
+Porque en la soledad.
+Durante esos días, en el peso del vuelo, de esa casa, empecé a hacer música con todo lo que os rodeaba, entonces...
+Cada complemento de la red ya no era.
+Un clásico complemento dearredo, fermo, inmóvil, primo de voz.
+Pero que sea mi herramienta musical.
+Con buena ilusión jugaba con el otro de mi mamá, que cada ocho no se encontraba con los bichos, entre el otro "Mamáciao", me quedé mirando en el chorro, y esto es una gran rivera.
+Y digo yo, en cierto punto.
+Pero va a ser una persona normal, lo que quiero decir.
+Entonces, me puse a estudiar guitarra.
+Es el piano.
+Después le gustaba Woody Allen, ¿no?
+Entonces comencé a dejar el Clarinetto, el problema es que le gustaba mucho el aire arbore, que le escribía una canción maliciosa ambigua, lo viniendo así los primeros años de estudio de género.
+También saqué Clarinetto.
+Está bueno así, para no venir.
+Facios ilusiones, mis compañeros de carrera.
+Pero me bajé todo esto, ¿por qué estudié y escapé de esa notación tan rigida?
+Porque hay más armonía en un ruido.
+Porque hay más espectro sonoro en un ruido.
+Y me gusta hacerlo.
+¿A los problemas de la vida?
+Todos nosotros nos hemos atacado addoso.
+Un ruido, un fracaso, algo que nos ha hecho engañar, pero estoy segura de que ese ruido nos ha hecho crecer de mucho más.
+Es una sonrisa.
+Por eso es mi misión.
+Hasta que son chicos es la de transformar un fracaso, un ruido.
+En música.
+Y armonizar todo lo que es.
+Mi sento.
+Me parece un bonito giro de dólar, Gino Paoli.
+Y todo esto se va a tener conclusiones, pero no, me complicaron así la vida.
+¿Qué es?
+El sonido.
+¿Pero, sobre todo?
+¿Qué es eludito?
+Estudiar es uno de los sentidos más difíciles de entender, pero también el más inmediato, el más fácil, el más potente.
+Para transmitir una emoción.
+Nuestro oído interno, la cadena de huesos, nuestro equipo, alcanzaríamos la máxima funcionalidad.
+Vuelvo a la quinta semana de preparación.
+30 semanas de gestión: esto quiere decir que nosotros empezamos a escuchar, incluso antes de hablar, comenzamos a escuchar aún antes de ver.
+Y esto no es un caso.
+Porque el feto tiene que estar pronto.
+O sea que lo spetteral en la vida, una vez nacido, tiene que estar pronto a la textura sonora.
+No debe tener miedo.
+Tiene que ser propio.
+Así que no en caso, si la mamá, durante la embarazo, escuchada Pancroco Británico, no hay que espantarse si el niño, una vez nacido.
+- Sí.
+Se queda dormido, por ejemplo, a Shakespeare.
+Futtan mamás, les prometo, y es una construcción que les hago personalmente, con mucho cuidado en la elección musical, con mucho cuidado en la puesta, más que en la otra.
+Muy bien.
+(Aplausos) ¿Qué hay, pero el sonido?
+El sonido es ese...
+Todo eso de lo que estamos rodeados, el sonido es lo intangible que se hace emocionado.
+Es lo que en nuestras vidas es completamente astrónomo.
+No se ve, no se toca.
+En la columna están ahora de todos los días, el riñón en nuestro compañero, la mamá que nos gritaba, porque la mamá nos gritaba, todavía no.
+Todo eso es la columna sonora de nuestros periódicos.
+¡Eh!
+Claro, el objetivo es mucho más sencillo.
+No sabemos.
+El objetivo es cuando enteramos la capella que hay, digamos.
+Es más pequeño que lo que me imaginan.
+Picola del hombre de Milán.
+Una pequeña de San Pietro.
+¿Con la de tu casa, tal vez?
+Y capitaba lo mismo que cuando una persona me veía en el vídeo, veía en el escenario, y después me encuentro con gente, y me dice.
+Imaginaba más alta, bueno, claro, aunque sea más baja, sería realmente imposible.
+¿Por qué?
+A partir de ese pressupuesto.
+¿El vivo?
+Es lo que nos permite imaginar.
+Pero el sonido, ¿eludito?
+Es lo que nos permite soñar.
+¡Vamos!
+Imagínense nuestra vida, me gustaría revolucionar su capacidad de observar.
+Imbaccanza.
+Se ve el mar, no pasa nada, y empezamos a...
+Veo fotos de los pies en la arena, después es la electrovente, Chile no soy, perdí el cuento, pero es multicánica, multisensorial, pero es multimultalmente "food" que tenía un cierto punto.
+(Risas) ¿Saben qué?
+Nadie come el dulce.
+Lo fotografiamos.
+Lo guardamos.
+Vamos a hacer muchos vídeos.
+Pero no nos quedamos nunca escuchando.
+No nos quedamos nunca escuchando.
+Pero ni siquiera una persona que conocemos.
+Y os traigo un truco: ¿Cuándo vais a pelear con alguien?
+El mejor momento, para conocer a la persona, es quedarse en silencio ese silencio que entre el otro no existe: ¡do igual!
+Escuchar.
+¿Firvi?
+Tiempo de escuchar.
+Como en este momento.
+Entonces, hoy me gustaría llevarlos a mí, me gustaría llevarlos a mí.
+A la vuelta del mundo, maquillándola.
+¿La de Uds.?
+Y me gustaría empezar contando.
+El sueño de mi vida.
+El sueño de mi vida, que nace.
+¿En el ascolto?
+Es de mí misma.
+Por primera vez, el arquitecto de mí mismo.
+Era el 2013, yo quería ir muy lejos del espacio, una serie de faldas, problemas y demás.
+Que después se convirtieron en armonía, pero me propongo buscar un lugar lejos del espacio.
+Así que decidí elegir.
+Una ciudad de la Atlántida.
+Escuchaba la planta.
+Había aún las tías, una de las ciudades más lejanas, culturalmente.
+Artísticamente está muy lejos de mí.
+Shanghai, decidió...
+Y partimos en un concurso, llegué a una residencia artística y comenzaron los años más bellos de mi vida por el simple hecho de que por primera vez me estaba escuchando.
+Pues bien, yo no tenía dinero, tenía mucho miedo: tenía una idea, pero era la única creciente y era la que iba a escuchar los sonidos de todo el mundo, de todas las ciudades del mundo, creando para cada uno de nosotros una columna sonora de todas las ciudades, llamando este proyecto de Sound of City.
+Y todo parte, realmente, al flujo de las ciudades, son una gran herramienta musical.
+En llegar a esa herramienta musical logras entrar en el centro de la ciudad.
+Y me gustaría traerlos en este momento a Shanghai, ¿dónde?
+Durante 48 horas, sin parar, he registrado los sonidos básicos de la ciudad.
+Y creé una columna oscura.
+Entonces, ¿en este momento?
+Les quiero tocar.
+Shanghá.
+Se quedaban concentrados todavía en la visita, y esto fue un test.
+No es verdad, no fue un test, pero decimos que es un test, están todos desconectados al visor.
+Ahora.
+Hay una ciudad que es cierta, Uds. hubieran fotografiado de todos modos, y se han roto más de una vez, pero a ese humo que sale de las cañas, que se suena.
+Pero el puente de Brooklyn puede tocar.
+El puente de Brooklyn es un excepcional que se caracteriza.
+Todo en el imperio.
+Y de ganas de novela.
+Tengo el Consejo, que verdaderamente me ha golpeado en un collo y algo muy importante que decir.
+Menos.
+Hola, bellísimo, pero no es bonito porque por otra parte del mundo.
+No es mágico porque fue otra parte.
+Es mágico porque debajo de nuestros ojos cada día.
+Y quizá muchos de Uds....
+Conocen un par de puestos.
+En esta foto...
+La regla de desaundo a siti es de 48 horas.
+Sin dormir, a la vuelta de una ciudad, perdiendo en la propia ciudad, pues yo conocía a Genova.
+Iba a Genova porque hay capitadas muchas veces, hay velacidadas veces, pero nunca la he escuchado de una manera tan profunda, y escuchándola de esta manera les puedo decir que entre mis ciudades preferidas ahora, sacándoles el aplauso, os prometo.
+(Risas) Empecé a registrar los primeros sonidos.
+Y los primeros sonidos me han dado datos de estos niños que en este tubo.
+De hierro, de puerta, me han dado este campamento audio.
+Y os voy a sentir, antes el campamento aéreo temprano, y después lo está trabajando.
+Y ahora esta es elaborada.
+Eso no.
+Salita, a la espianada de...
+(Blancas) ¡Buenas!
+Y les gusta un poco, parece que...
+Tanto es normal, nunca he estado, me han atacado en esta hermosa medida, y me ha mantenido una frecuencia muy baja, que se ha convertido en un sintetizador.
+Su medio.
+Sua en el laboratorio.
+Claro, Genova es Mordandis.
+(Risas) Bueno, no era una pelea, esto es algo que sería.
+En fin.
+La escritura.
+Que se ve muy pronto en la plaza de los Ferrari, no es solo una escritora, para mí es una gran herramienta musical, y me ha ayudado a sostener el poco de esta columna sonora.
+Y hace más o menos así.
+El último sonido, después de que me gustaría tocar Genova, es la de...
+Le arruinan el puerto.
+Que nosotros estamos acostumbrados a mirar por arriba, pero el sonido es una percepción que está opuesta a la vista, y por lo tanto creé este microfono.
+¡Me encanta!
+Inmerso, por 48 horas.
+En el portón de Genova encontré un sonido de un trayecto que me dio una frecuencia particularmente que se convirtió en la melodía, y cuando se convirtió en la melodía, es porque meterla en loop se transformó en lo que es la "A".
+La voz portadora de la columna son no.
+Ese es el sonido rollero.
+M.C.
+Hola, ahora.
+Quisiera hacer que se sientan Genova a mano.
+Me llevó a esto.
+Pues esto es Genva como suena.
+Y ahora lo sentís.
+Lo habéis sentido en este sonido.
+Paso al sonido de nuestras pasiones, en mis y en sus vidas, y por cómo la gente les va a decir que son rumores, están estonados.
+Durante mucho tiempo, realmente es la pena escucharle, y yo te doy las gracias por el asco, ¡Gracias!
+Como dice Guy Beck en italiano, la palabra generalmente utilizada y restitución no es perfecta, sino que la IA, en general, es la idea de la Ristitución que está relacionada con la Ristitución monetaria, con la ganancia.
+Muchas veces, en cambio, la restitución está conectada a restituir lo que has hecho, lo que has aprendido.
+Y pasar de la parte de los que dicen: no funciona nada.
+Después en Italia no funciona nada en este país, lo que vamos a hacer es acercarnos, es decir, los carteles unos 18 minutos deciden algo de esta historia.
+Pero a partir del final de los años 99, precisamente, ese es el papel de mi hijo.
+Tendió cerca de Segrate.
+Y es en ese mismo año, mi esposa Monico, que organizó la recogida de fondos para pagar la material.
+Y es el asilo.
+Era una actividad.
+Muy pesado, hecha con muchos papás.
+Pero algunas decían: "No, porque tenemos que ayudar, tenemos que pensar en el estado de Comunidad".
+A la mayoría de ellos les enfrentaba estos esfuerzos extraordinarios.
+Para ayudar a la ayuda, para ayudar a la comunidad.
+Pero recibió un milionero de 200 000 leer, porque no se acuerda, son 600 euros entonces, y fue uno de los esfuerzos de los individuos, un esfuerzo extraordinario.
+A los pocos meses nos referimos a EE.UU. esta vez...
+Pues sí, la misma escuela escolar para una escuela que se está atenta, ese es el hijo más grande.
+[A.DE.]
+Y tenemos una realidad completamente diferente, es decir, lo extraordinario que tenemos nosotros, nos enteramos que es una realidad totalmente ordinaria.
+Hay el tema del gameback, de la restitución.
+Es muy normal.
+Y entonces el esfuerzo extraordinario de un manipulador de padres italianos es común para toda la sociedad.
+No que la sociedad americana sea perfecta.
+Tanto.
+Lo he dicho el tema de restitución: he tenido suerte, lo repito.
+A ella le encanta la escuela.
+A pesar de la universidad, junto con el museo, junto con los teatros, todas las comunidades se sustenta perfectamente...
+Respitución de voluntarios.
+No que realmente no hay un cuadrado, por ahí es un fenómeno y un círculo positivo, sino que también hay mecanismos, hay lucibidades físicas, hay procesos.
+Función: una ciudad basada en eso.
+Seguro hace unos diez años, alguno de Uds. quizás lo conocí, ese es el comienzo del sito.
+Aparte del famoso Obamaker.
+Como dice "Desiste Miss Dwn" es de Mormento.
+Bravo nos está esperando.
+Pero por lo tanto, uno se pregunta: "Siste a mí en ese momento".
+Obama ha tenido un famoso banquero y ha sido una deuda tecnológica increíble.
+Hay lanchas tecnológicas, tenemoseso 100 millones de dólares, por lo tanto no se preocupan de estas cosas no solo pasan en Italia.
+Esto es un ruido que no funciona.
+Tantos millones de exposiciones, y esta es la respuesta estándar que reciben.
+En resumen, la crítica no va a terminar un día, pero después a alguien se le ha dejado de criticar, y basta con que se hagan.
+Pasar desde el criterio, que es fácil y normal al tratar de hacer y ayudar, que es difícil extraordinario.
+Nosotros no es algo común.
+Esta es la copertina de Time Magazine que...
+Mientras que los expertos de tecnología que han sido enviados por Google y otras empresas, hay heridas.
+Y de acuerdo con la casa blanca, no riachitatía, riachuelas que te colocas, se puso en marcha el timbre, quedas, en función estuvo en pocas horas, en un desciclo de los conciertos.
+Quizá muchos habrían criticado: pero Google seguramente tiene sus intereses en esto.
+"¡Eh!"
+Lo extraordinario, y no lo extraordinario, he visto que he terminado en el descubrimiento de TAMEG sin haber sido muy interesante, y eso es lo que...
+Quiero contarles de qué se trata, qué es lo que yo espero de las personas, que si no.
+Aprendieron mucho de su vida, tenían esta valija, ese lujo, y decidieron descubrir las experiencias que habían llenado de su vida.
+¿En este caso?
+Se arman la capacidad de gestionar grandes sistemas tecnológicos, procesos complejos, inalcanzables.
+Repetibles.
+Y hacerlos, a su vez, instables y inalcanzables.
+Y generan un sistema replicable, que es el LIUS de Torris, desde ese esfuerzo, ya nació.
+Un sistema replicable es lo que nosotros esperamos hacer.
+Quiero hablarme de la palabra "delos".
+Porque uno también impara los modelos, los que han sido los oídos de nuestra vida que nos han inspirado y que nos han enseñado.
+Los que te han enseñado la perseverancia, la ganas de nunca más molestar, de seguir insistiendo, energía, empatía.
+Entonces son estos modelos que forman parte de este equipaje, que tenemos que utilizar, queremos reemplazar.
+Como obviamente ha tocado no solamente lo que hemos dicho hasta ahora.
+Pero también el factor de Italia.
+Casi de 20 años a través del espacio.
+La idea de volver, de ayudar, también es porque son italiano.
+Quería hacerlo.
+¿Quieren alimentar al mundo?
+No hacer o no hacer, no hay intento, quizás la religión italiana es hacer o no hacer, no hay que hacer nada más.
+Cualquier año más tarde somos cinco en la reunión Materencia sin Francesco, y ha salido a la misa a la empresa, a la Silicon Valley, a la terrible necesidad de la transformación en general.
+Cualquier cosa que nos ha azarizado un poco menos.
+La transformación que tiene que pasar también por la transformación de los procesos y por la transformación digital de la publicación administrativa.
+(Risas) Me pregunta: ¿Por qué no nos viene a ayudar al mundo a un par de años?
+Pensamos, reflejo el pago con mi esposa, Monica, y hablo con mi capo Gerpeso para lograr pronto, decidí aplicar una metodología de elección, por lo menos de no reproducirlo y no lo logré, o me pide de noviocinas también probado.
+La elección fue hecha y entonces se dio por Romeo durante dos años.
+En el escenario de arte.
+- Ah, manzone.
+Pero los que te hacen hacer estas cosas como Amazon, disfrutan, a lo mejor te matan, pero por algo te dan abajo, estas son solo unas de las frases, les tengo que decir que hemos recibido tanta soporte, entonces en este momento estamos concentrando en esta parte, pero a parte positiva, ha habido.
+(Risas) Me contaba mentalmente en el escogerismo y en la burocracia la gente me pregunta: "¿Pero si te atrapa esta burocracia, sí que no esperaba, por supuesto?"
+Pero el oxígeno tiene muchas veces que ver con elismo, que les va a arruinar una cierta mentalidad.
+Nunca la ves, obviamente, tú lo haces porque tienes director, yo siento que muchos de ese tipo.
+Ese país, en realidad, tiene mucho sentido del bien común.
+Y es hacer las cosas porque tú piensas en ayudar, de mejorar una situación no solo por lo que te interesa.
+Y aquí está, por los días de Uds. aquí, esto es un comisario.
+Los más mayores lo reconocen, como es un comisario integral, digo esto porque el título un montón, mis hijos y luego, inmediatamente, desde un principio, de comisarios extraordinarios, es simplemente porque es su papel que me permitía poder asumir personas de fuga de la publica administración.
+De hecho, lo único que les pedí es.
+Se ve como los sistemas desde adentro, no se transforman, ¿no?
+Queremos probarlas con personas que están fuera, donde el hecho de no conocer la publica administración.
+Es un asiento.
+Por tanto, para eso creamos un pequeño equipo, yo quería que era un pequeño equipo, que yo he dicho 25 personas, y no un desperdicio, es una ventaja y no la ventaja.
+No grande, pero tampoco demasiado pequeño, de expertos tecnológicos alrededor del 80 % el 20 % es esperado hacer los presidentes legales.
+Genarios de comunicación.
+Aquí veis el post que yo había hecho cuando solo entré en esa aventura.
+Dije: "¿Por qué no escribimos?"
+Lo que yo creo que va a pasar.
+De esta manera queremos atraer a talentos, caritales que vivan en Italia, o que tengan ganas de hacernos.
+Y también temporal.
+A un compenso, probablemente, es mucho mejor que lo que veis.
+¿Cómo os sigo?
+Entonces me puse a pensar, pero ¿cómo voy a convocar a alguien a venir a hacer lo mismo que estoy haciendo yo?
+Por otro lado, quizá alguno de Uds. lo reconoce, esa fotografía cercana al señor de Bella, que en el '47 ha abrazado a todos los EE.UU., pero ha puesto a sus hijos al teléfono, a todos los Estados Unidos, en este deporte, en masaje.
+La visión de los inversión es la infraestructura.
+Hemos creado la visión.
+El sistema operativo del país es una serie de componentes fundamentales, en los que construir servicios más sencillos, eficaces para los ciudadanos, la publicación pública y las empresas.
+Ha a través de productos digitales innovadores.
+La visión muy bonita, la delincuencia, es la delima y la sangre.
+Seguí en mi lugar, campo de fútbol en salida, sino en ese futuro estadounidense, si no me equivocé.
+Y seguía, también encontraremos muchas reglas complicadas, tan insensibles, a una fácil predicción.
+Tenemos que aprender a gestionar con inteligencia la burocracia, muchos nos dirán: "No entiende cómo funciona la publicación pública".
+Ya lo han probado muchos, han fallado en Italia no funciona así.
+¿Qué continuo?
+Les voy a dar muchas críticas: unos comentarios serían sinceros y útiles, otros serán fichos y prejuicios.
+Los criterios del primer tipo serán tomados por personas que realmente quieren ofrecer con total spontanidad a sus contribuciones y tenemos muchos tratamientos.
+El de este segundo tipo, de los que quieren defender el estado del equipo, es que son las bicicletas siempre de un medio vacío.
+O que más simplemente se han adaptado a la impotencia.
+Esto es un gran problema.
+Para sentirse conscientes de las cosas que no funcionan.
+Os acordáis de esa imagen: el primero, los hombres y las mujeres en la portada de Times.
+Aquí está.
+Por lo tanto, a pesar de que se me ha intentado investigar lo más posible, la gente a hacer con el ojo, yo he recibido cerca de 3000 preguntas.
+A partir de eso, por lo menos un centavo muy cualificado, hemos utilizado sillas digitales para collogos, una aplicación que se llama Jazz, la hemos hecho en Beth en el sito del Governo, me ha hecho un test de matemáticas y un terdicoli para la parte tecnológica, el equipo ha sido confundido en la masa clínica, ahora somos un poco de vistas, y ha sido un poco incomprensado por letras, ¿qué hacemos?
+De hecho, nos ocupamos de la idráulica.
+Estas son las tuburas de la publica administración, algunas hacen muchas para conectar, porque es un gran problema.
+"¿Por qué?"
+Los sistemas, los procesos, las aplicaciones, cualquier cosa que debería interconectarse es a silencios y no conectarse.
+Y no estoy hablando solamente de Washington Machin, estoy hablando también de personas que no quieren explorar sus datos, sus propios temores, sus propias aplicaciones, así que se trata de introducir el tema, explicarlo.
+Y en años, implementarlo, de conectividad, de interroperibilidad.
+Explore el código abierto de la publica administrativa.
+Entonces, hay gente de software, evidentemente, y hacer muchas actividades de proyectos económicos.
+O sea, tantas actividades idráulicas.
+Pero también no podemos acabar.
+Para hacer las tareas del plato, en el tiempo, hay que hacerlas mejorar el interfaz autista, haciendo más sencillas.
+Muchas de estas cosas están hechos en paralelo, pero sin tubos no puedes hacer.
+Después de unos meses, en el juez de 2017 hemos escrito, en estos meses, el piano tendió la publicación, publicamos junto con otras personas que nos han ayudado, sobre todo, el piano trenal para la transformación digital de la pulgamiación.
+Para la estrella hay una cosa, existe.
+Dueve.
+Ha escrito de una manera clara, tecnológica.
+Pero también en proceso.
+La primera vez fue...
+Asurbido y patrocinado del gobierno, el Paolo Gentilones ha demostrado el decreto del presente tan ministro, la transformación digital es una prioridad del gobierno, el piano estadounidense requiere de un juego de equipo para simplificar la política administrativa, la vida de la ciudadanía, especialmente el piano.
+Y esto va a añadir una vez al año, porque los chinos no pueden haber sido, hay sobre todo en tecnología.
+Y se aprecia en las ministraciones.
+¿Qué es esto, que es la única manera de hacer los piantos en Italia, en la publica administración?
+Según el reglamento de las reglas tecnológicas y las leyes pueden leer quizás tres páginas de visto y de conexiones a otras normas de otras reglas, y en cierto punto se encuentran las reglas tecnológicas bastante inocentes y incomprensibles: lamentablemente no podemos abolir estas cosas, pero podemos hacer en paralelo.
+Otras cosas: Por tanto, el piano tendencial.
+Hemos colocado en manos de las tecnologías que Uds. entienden, y ha colocado su forma de ir.
+Hablar con los administradores, hacernos darle feedback, documentación sobre las calles de óx, para que los propios administradores, los tecnológicos a la administración de software libre puede no.
+Migliorarlo.
+Nosotros nos dedicamos en este momento particularmente, y esto es siempre la parte del piano.
+En las plataformas habitantes, estas son las plataformas competitivas, son los pagos digitales, son las cosas que habilidades en general todas las actividades de la publicación administrativa, más allá van a ser.
+El pago digital es uno: un pago digital es uno, un carné electrónico, una plataforma donde la identidad digital es una plataformabilitante.
+El proyecto mágico que en este momento hemos seguido se llama anagrafica nacional y población residente.
+"Eh".
+Metrar eso.
+Panalizando tecnológicamente todos los datos de la ciudadanía que en este momento están en 8000 silencios distintos, que son los 8000 comunes italianos, en el único database se encargan.
+Dos datos que se hablan entre ellos, son todos sincronizados y hablan al resto de aplicaciones de administración: Cuando me encuentro con un común del otro tengo que hacerlo.
+En primer lugar, lo que me gestionaba de manera manual, después yo tenía que ser ciudadano, ir a la asa, a la motorización, a todos esos puestos, tenía que decir, todas esas cosas que ya tenía que saber.
+Nosotros estamos resolviendo la solución tecnológica, y ya elaboramos tanto en los procesos.
+Hace dos semanas hicimos una Akaton Seria.
+Dos 800 desarrolladores software han trabajado en esa aplicación competitivos, han usado en 96 intervenciones.
+En Wag-fixing, por lo tanto, poner en problemas de software.
+El mejoramiento de la documentación y incluso de nuevos proyectos.
+Fue hecha en 25 ciudades italianas.
+Sin Francesco, también, que no es italiano, pero hay muchos italianos que nos están ayudando desde el punto de vista tecnológico, fuera del país.
+¿Todo esto?
+Confluye, estamos hablando de sustentabilidad y de re replicabilidad, en el sito de belleza de spundo Italia, como es el caso de los T, donde son esposos, toda la documentación.
+Todos los códigos, pero cada vez más, aplicativos.
+Esta es la publica administración italiana, ahora hay un quinto de lo que debería ser, quizás también de mí.
+El futuro es hoy, soñemos un poco.
+También estaba trabajando en otros proyectos que oficialmente...
+No se limita a hacer iraulica, entro en el ballo también.
+Pero sirve que las tabletas sean competitadas, eviten sin saberlo, esto podría ser, por ejemplo.
+Y es una de esas cosas a las que pronto.
+Al que vamos a lanzar la versión Alsa, alfa, se llama ciudadanía digital.
+¿Tengo el teléfono?
+Smartphone tiene la identidad digital, tiene los datos la carta de identidad electrónica, tiene Nepiere.
+¿Hay funcionales ya?
+Y todo esto, el objetivo de hacer más fácil, familiarizar la interacción de ciudadanos es la publica administración.
+El interfaz es simple.
+Estamos soñando un poco porque en el trabajo lo hará verdaderamente, pero tiene mucha visión.
+Hace poco, el estadio.
+La computadora hace 150 años escribió un incierto al mundo que...
+Nos esperan, nos piden a muchas personas...
+Hablar de lo que piensan pueda pasar.
+Me pidió que hablara de simplificación de la vida de todos los días de los ciudadanos.
+Yo tengo la oportunidad de escribir un artículo del que quiero citaros.
+Algunos peces.
+Se trata de un sueño sueño, quizás lo hacemos.
+Desarrollamos un país donde los políticos que tratan de entender la transformación digital en vez de temerla y luchar, son la regla y no la ejecución.
+Un país en el que leen y reconocen y promueven el derecho a innovar, ya que lo embryo.
+Un país con las fuerzas tecnológicas también están dentro del Estado y de las empresas públicas.
+Un país donde hay más empresas públicas y privadas, guiadas por 30 años que por 70 años.
+Imaginen, hasta un país donde trabajar para la publicación pública es una oreja donde los humanos mejores hacen para trabajar en centros de investigación pública, que son verios y propios centros de excelencia y innovación.
+Sportan desarrollo al país.
+Ahora sí que es un sueño.
+¿Y qué los componentes para hacer todo este político de proceso?
+Los avances tecnológicos son realmente muchos y quizás cambiados.
+Pero si no es un sueño en el que soñar dificilmente se puede hacer cosas.
+Antes de concluir.
+Esa es mi mamá que pertenecía a las personas que me dijeron: "Señora que hizo".
+[A.DE.]
+Y aquí sedula desde algunos lados en este teatro, entre el otro.
+Pero en este punto, las está más tranquilas, y no conseguí explicarles qué es lo que estaba haciendo.
+Y ella también piensa como nosotros, como el timbre, como los 25 chavos de los circuitos de transformación digital, él entendió que lo que estamos haciendo es como todas las que nos creen y quieren hacer.
+Cualquier cosa.
+¿Y si Uds. quisieran información de nosotros?
+Nuestro compromiso y nuestros socios.
+¿Tengo la posibilidad de hacer un deseo?
+Solo uno para cambiar un aspectos de tu vida.
+Que no va a ser vistos.
+¿Qué cambiarías?
+Y Uds. ¿qué cambiarían, levanten la mano de cambiaría el trabajo, su propio jefe y sus propios colaboradores?
+Tienen miedo, están guardando Ever ese Everest, porque aquí detrás del sé que hay, entonces levanten la mano los que cambiarían algo de su cuerpo, y tal vez pierden algún kilo.
+¿O tal vez ganarles en músculos?
+(Risas) Esa era la verdad que no todos tendrían, o quizás muchos de los que cambiarían pareja.
+(Público: ¡Sí!
+Hace un par de veces, a lo largo de mi vida, me hice esta pregunta.
+No entendíamos si cambiara parte, y la respuesta variaba porque los primarios hubiese querido tener una familia más cercana, pero mis papás estaban separados.
+(Aplausos)
+En las mediciones hubiese querido ser más hermosas, para gustar más a los chicos.
+Al liceo iba a sentir los profesores más complicados, me pareían todos osiles y me ponía en la música, aquí los grandes vuestros de estar en la sala de prueba.
+Hasta que la universidad tenía que volver a trabajar, pero me extrañé con la dificultad de acceso al mercado laboral, así que toda la primera parte de mi vida la pasé a luchar y a luchar para tratar de entender cómo cambiar las cosas que no me iban bien de lo que los demás pensaban de mí a las grandes maniobras económicas, de las relaciones interpersonales a las características que había adquirido el fin de la nacimiento.
+¿Y cuando me convertí en psicólogo?
+En vez de entrar esta investigación también con otras personas y me di cuenta de que ellas, como yo, utilizaban principalmente tres estrategias.
+Y esas estrategias, si se utilizan en pequeñas dosis, también podrían traer un beneficio, pero como la mayoría de los casos pasó, eran las únicas tres carteles que jugaban frente a una crisis.
+No solamente no resolvían nada tan bien, sino que conseguían mantener vida a su problemática.
+La estrategia, hoy en día, más difunde.
+Es lamentarse.
+Nos lamentamos un poco más de todo, nos lamentamos un poco de todo, que hay crisis que no hay trabajo, que hay tráfico, que hay frío, que yo hubiese hecho de manera diferente, nos lamentamos porque no hay justicia, con muchas personas que se quedan en el despacho de la mente, esa te paraliza, esa noizza y se alarga.
+La mancha de homogio.
+Me acuerdo de una muchacha que vino a la mano de mi estudio, la que no hacía nada que se ponía a ladosa, de que cuando empezaba a hablar, y después de la muchacha con la que le había tradido, entonces de que no tenía trabajo, el último barco del gobierno que no lo había ayudado, se sentía de una ternura, capacidad, y aquí la mente lo había hecho totalmente colonizado durante toda su vida.
+Entonces, enfermarse.
+Para todos nosotros es un poco la gran tentación.
+Porque con un pequeño esfuerzo.
+Quiero obtener un gran resultado.
+Reivindicar el papel de la víctima.
+Porque se escucha, incómoda, ayuda.
+Pero, ¡bagan bien!
+¿Podéis lamentarte de noche o de día?
+¿De solos o con los amigos, en voz alta?
+¿O en vuestra mente?
+Y pueden lamentarse de algo que ya pasó, o de algo que quizás un día puede pasar.
+Y os podéis lamentar en vuestro entorno.
+Como mucho más a menudo te podrás lamentarte por la razón.
+Porque todos tenemos tantas razones para podernos lamentarnos.
+Pero la verdad es que a medida que os desearéis de lamentarte dificilamente alguna cosa a tu alrededor cambiará, pero, nada más tiene que dar más atención a lo que en expansión.
+Si la estrategia que para los pueblos, cuando las cosas no van como vestidas, es la de lamentarse.
+Supongamos que alguien está en el estudio de un piano B.
+Para salvarles la piel.
+Boca.
+Otra estrategia muy abrumada, cuando las cosas nos están estirando, es la de importarnos, es nuestra necesidad.
+Pero a base de esta mentalidad hay un factor cultural creciente, basado en el cual hemos aprendido que si algo no nos está bien es suficiente cambiarlo, podemos manipular a nuestro gusto lo que nos rodea.
+No te gusta el azar.
+¿Pero desde chiquito estático?
+Pero, ¿te sentí un poco arriba pero por qué nunca estuviste en el sufrimiento?
+Tomé dos pilas y la resolvemos fácilmente.
+¿La esposa te rompe?
+Divoría.
+A los frescos, vamos a tener todos los riesgos que tenemos en la pala.
+Tu hijo no te escucha, lláalo.
+Es demasiado grande no lo podemos mencionar, lo mandamos por el psicólogo, estamos aquí por eso, por el otro lado, mi vocación, la elección por eso, esta profesión, para que el mundo a tu alrededor se detuvera la perfección con tus propias exigencias.
+Pero el contexto, dentro del cual esta estrategia surge de manera muy importante, soy.
+Las relaciones de pareja.
+Recuerdo una, una sopa, durante los cuentos de la que no hago otra cosa, que escuchar qué cosa según el otro tendríamos que cambiar para resolver las cuestiones de su futuro.
+Él.
+Sí, sí que te pueden concebir, pero ni siquiera para pronunciar.
+No es un clásico.
+Y ella, ¿no?
+"Sé tú que nunca me habéis planteado, si no para los demás".
+Y él no, tú sabes que no te das cuenta de todas las cosas que yo hago para ti.
+Y ella, no, si tú que no me escuchás, si no me escucharás otra cosa para venir a encuentro, y así como yo veía con un brazo de hierrologante que siempre empieza con la misma palabra blanca.
+Y por qué debemos demostrar toda la edad de equidad del otro, tenemos que hacerles ver todos los problemas que tiene que estar remedio para restituirnos a nuestra felicidad que nos ha secuestrado.
+(Risas) Pero la verdad es que si bien eso lo decimos a veces en buena fe, creyendo profundamente.
+Estamos pobremente capaces de cambiar algo, viejo.
+En vez de desplazarse los huesos a la base de la relación, terminamos por irrigirlos, por aplicarlos, si la estrategia que tiene el privilegio.
+Cuando las cosas no están como miradas, esa de imponer tu necesidad y esperar que los demás se cambien de consecuencia, piensen en un par de veces, porque vas a tener una vida...
+Pienso en resistencias, llena de hostilidad.
+Tercera estrategia: cuando las cosas van a una manera que no nos gusta, es...
+Terminado que no haya, como una herramienta, tomar la cabeza, ponerla debajo de la tierra.
+Pero a base de esta dinámica, muchas veces, hay el intento de lidiar con el conflicto que surgiría, entonces nosotros deberíamos demostrar nuestras necesidades, y entonces, ¿qué hacemos?, ¿los sufrimos por el bien común?
+Pero de esta manera nunca tenemos una posición, por lo tanto no somos capaces de definirnos en nuestra identidad.
+Y vivimos en el marco de las necesidades al final.
+(Risas) Recuerdo a un chico, joven y chaval, hijo de padres separados, muchas veces me alejaba del toro que ahora se ponía directamente en los enfrentados de la persona, le hubiese perdido el amor del otro.
+En esta situación está limitada, está claro.
+Aprendió cosas importantes, por ejemplo lo aprendí.
+A escuchar, a aceptar, a razonar por sus motivaciones, incluso alejadas de una por otra, pero por otra parte nunca aprendió a decir que no.
+Las cosas que no les estaban bien, no aprendí a decir no a las relaciones que lo iban a buscar, estaba en cualquier condición social, y el mayor era uno de los que tenía todos los medios de comunicación, pero de esa manera están llegando a terminar sus necesidades, sus deseos y sus ambiciones siempre estaban bajo el miedo de lidiar con el conflicto, y la necesidad de accedirse aquí.
+Y la estrategia que privilegio, cuando las cosas no están como Uds., es la de sufrir sus necesidades.
+Primero tu cuerpo empieza a hablar para ti y en vez de contagiar todo esto.
+Terminaré por descubrirlo.
+Me harté lamentarme.
+Para integrar sus necesidades, o padecerlos, son tres estrategias limitantes: yo puedo decirlo con cognición de causa, porque yo mismo a largo, en mi vida adopta, abusó, les cuento lo que me ha pasado.
+Un día, el primario de la Espacial para la que yo colaboraba me mandó a llamar y me dijo.
+Pienso que está ahí, por ella, ya no hay lugar, si a mí me gustaría seguir la colaboración con nosotros, tiene que aceptar un trastorno.
+Y me indicó un lugar lejos, espermato, detestado de los más, además me tuve que ir allí para hacer un trabajo que ni siquiera había sido un gran trabajo que con todo lo que había estudiado hasta entonces.
+Me he sabido morir, sí, pero no tenía sentido para lamentarme.
+Buscarlos cambiar de ideas, adoptarlos, pero mandé ese otro, y ni siquiera porque nunca tuve que aceptar un compromiso que para mí era inaccesible.
+Ahí me compré que...
+Para lograr resultados distintos, me tuve que hacer cosas diferentes.
+Por primera vez, evidentemente, en mi piel, en ese momento comprendí que el secreto...
+Para cambiar a los demás.
+Hay que cambiarte a uno mismo.
+¿Y si me lo cambió?
+También los demás tendrían que seguir, cambiar, cambiar.
+Y si fuera un psicólogo súper brillante, competente, completo, único, el primario no me mandaría a caminar.
+Si también la vieron.
+Lo que no me iba a llevar más deidad.
+A ver, a lo mejor a mí se me fui yendo, antes de que la inmigrantes.
+¿Pero si todavía no era esa persona?
+Pero la respuesta no estaba buscada en la etapa de los demás, sino que tenía que interrogarme en el profundo de mis miedos.
+Responsabilidad.
+¿Por qué las cosas?
+No cambian.
+Somos nosotros los que cambia.
+¿Y el primer cambio que tenemos que hacer?
+Va a la edad de escogernos.
+Y eliges tú.
+¿Cómo por las cosas?
+Que no vayan como van.
+Vean como consecuencia de las cosas que no van bien.
+Ese es nuestro cabello.
+Si no hubiese tenido nunca un trabajo fijado en la crisis, hubiese estado adentrando las unidades a tu disposición.
+Y lo único que les voy a encontrar, y a la ayuda, a enfrentar algo muchísimo más grande, les quiero decir: es el control de la crisis, ¿qué querés hacer?
+Pero si en cambio es parte de ti y piensas en ser permeables que quizás haya un margen de cambio, que luego mejorado, entonces te abren las puertas delante, porque difunden tu responsabilidad la fachura, puedes siempre aprender un nuevo lengua, si leer libros, ir a gestos para adquirir nuevas competencias, o consolidar aquellas que ya has, puedes trabajar en uno para ser unico.
+Porque la vida es de quien lo hace.
+¿Quién no lo hace?
+La subye.
+Y si dentro de la sopa las cosas no están bien, tú piensas que es el otro al que dar el primer paso.
+Le está enviando un mensaje de inadecución y lo estás alejando si en vez de ti.
+Y tal vez sus aportes, todos los días, esa simple pregunta.
+¿Qué puedo hacer hoy de diferente?
+Para hacer su mejor periódico.
+Entonces las cosas cambian.
+Pero no cambian por el caso, pero cambian porque tú que has cambiado, antes iba a la investigación de tus obligaciones.
+Ahora ve la investigación de sus necesidades.
+Y después intentamos operar.
+Para poderlos satisfacer.
+Y de esta manera que crees un espacio mental dentro del cual nos podemos tomar el cuidado de uno del otro en vez de hacer la guerra.
+(Público: Sí.
+Sé una de esas personas.
+Que van con todos, que siempre tienen que decir que sí, una de esas personas que yo llamo, perdónenme en definitiva, prostitución relacional, es claro que no sólo tú estás perdiendo tiempo, sino que además pierdes sentido y significado las cosas que tú haces.
+Si en vez de partirte a ti mismo, para entender tus necesidades, para intentar entender cuáles son las acciones poner en el campo para preservarlas.
+Entonces, el juego se hace algo dentro del cual puedes convertirse en padrón de tu tía.
+Es empezar a trabajar en mí, vámonos a causa de las cosas que no pensaban como yo quería, en lugar de que su simple efecto, que también empecé a avisar de ser una persona mejor.
+Cuando me inscribí a la universidad, tenía un sueño: el sueño de ayudar a las personas a vivir mejor gracias a la psicología, hacerles entender que con mi materia había unas herramientas prácticas concretas, a veces hasta listas, para traer gran valor al interior de su vida.
+Pero amigos, me encontré con un casino de...
+¿Por qué?
+Stereotipi, prejuicios, obsesionador es el médico de los matos, el egoísmo es el médico de los polos, pero va a hablar con un amigo, pero va al parque.
+Pero, ¿qué tenía que hacer?
+¿Les hubiese tenido que lamentarme o que no se me di cuenta de cuánta psicología hubiese tenido que buscar cambiar su prioridad mental, hubiese tenido que renunciar a mi sueño?
+No, tuve que.
+Aprender a hablar un lenguaje, que era lo que no pasaba, como más cerca de lo que era, tuve que aprender a utilizar nuevas herramientas tecnológicas para comunicarme de forma más eficiente, tuve que aprender a escuchar sus necesidades.
+¿En qué?
+Importan el mío.
+Resulta que...
+Poco tiempo después de esta instrucción, obtuve los resultados para imaginarme cosas.
+Cuando termino mi currículum con mi primaria y su propuesta de trasferencia, no dormí durante tres días y tres noches, no sé muy bien qué hacer.
+Se me ocurrió, y al final fue decidido.
+Me encantaba aceptar el trasferencia.
+Pero no como lo intentaba.
+Me he trasferido aquí.
+Regresé a caso, maté la computadora y registré un video que dibujé en YouTube.
+En el cual hablaba de psicología, aquí por el ladrón capalo, digo que coimprender la ansiedad.
+Magari penséis que era.
+Al paso del tiempo, mi canal en YouTube es un producto de referencia en Italia, para lo que es la psicología en vídeo, gracias a esto, cada día miles de personas se acercan a la psicología subiendo a la discusión algunos de los estereotipos de los que antes les habían dado.
+Hace poco, una revista que desde 1974, yo estoy en el '79, publicaba la psicología en Italia, me pidió que hiciera directora, y hoy, cada dos meses, en las mejores editoriales, en Italia, fue mi revista, y lo que me coló más de todo.
+Fue el reconocimiento de que las compañeras al principio han volado un poco extraños.
+Quiero ayudarme.
+Porque evidentemente han visto que mi intento de innovar la profesión, la manera de comunicarla, tenía algo de pensamiento, y en Lumbia se le pusieron a la vicepresidencia y a ellos.
+Tenía sueños.
+No se vuelven realidad porque.
+Por ejemplo, por suerte, ¿o por qué lo hiciste?
+La teoría que uno tiene que tener es la que sostiene y que va avanzando, quien no sabe cómo se construye y necesita distruirse, porque el perro lo tiene que hacer.
+Y también hay que poner a discutir tu identidad, tus puntos de referencia, tus certezas, tus abduras de semejantes.
+¿Y si hay algo que aprendí de todo este camino interno?
+(Público: Sí.
+Es que la transición más importante.
+Esta es la más delicada, pero también la más urgente.
+Tenemos que adaptarnos a nuestro entorno.
+Hace unos motivos que os he planteado una pregunta.
+Si yo tengo la posibilidad de expresar un deseo, uno solo para cambiar un aspectos de la vida.
+¿Qué cambiarías?
+He hablado de trabajo.
+El aspecto físico del cuento corriente.
+Bueno, muy bien, en chiusura, me gustaría dejaros con un regalo, cuanto menos probable, es una pequeña pregunta que a mí personalmente ha sido muy útil.
+Y que se basa en la lógica de que para llegar a producir grandes cambios hay que concentrarse en tan pequeñas acciones.
+¿Cuál es la cosa?
+Y más fácil.
+¿Qué podrías hacer hasta ahora, terminar de asaltar, con el remolino en caso después de esta bella jornada?
+Y que les permitirá dar el primer paso.
+Para acabar...
+¿Su vida en la dirección?
+Quien ha auspiciado.
+Uds. pueden pensar: ¿Cuál es la más pequeña, más simple que pueden hacer?
+Para poner tu vida en la dirección.
+Fedecto.
+"¡Ay, vos le claves del frugón, a quién le mandas?"
+O feo ahora, salí del pullman, ¿no?
+¿Ven donde me pongo los paquetes?
+Fedemma, los martes son las pruebas.
+He hecho la mano, he robado la piel.
+En su fe, que está ahora mutando.
+Así que, cuando llegué a mi madre.
+¿Saben qué?
+La charla TED me ha dado la posibilidad de hablar durante ocho minutos.
+¿Y esto yo?
+Ese tiempo me lo quiero tomar por mí solo.
+Tenía un sueño.
+Para crear una banda de integración.
+De diversidad y de diferentes habilidades.
+Las percusiones son tan rápido.
+Así de inmediato.
+Acoran las distancias y se unen los batidos.
+Somos partidos.
+Somos partidos en siete.
+Sigas chicos, los veo, veo, Laura, miedo.
+Daniela.
+Ahí veía crecer.
+Nuestras pruebas eran el marketing.
+El martes era el día de pruebas, donde entraba dentro de esta...
+Están en la escuela de música Andreoli.
+Se petaban los primeros bidones.
+Él estaba juntos.
+Las primeras merecen juntos.
+Después decidimos convertirnos en un grupo.
+Y de ahí hemos aumentado 7, 10, 12, 14.
+Decidimos hacer los primeros pasillos musicales y viajamos: las primeras subidas, las primeras mareas en las tazas, las primeras satisfacciones, los primeros...
+¿Qué pasó?
+¿La primera satisfacción?
+Para los chicos, para nosotros, para todo lo que estábamos haciendo.
+Pero sobre todo los primeros aplausos.
+¿Lamentablemente?
+Una noche del 20 de julio de 2012 cruzó el mundo incómodo.
+Es el verdadero sentido de la palabra.
+Todos los casilleros eran completamente inagotables o crollados: una forte explosión de terremoto colpada en nuestras tierra.
+Y desde ahí nos quedamos.
+Los terremotos de los miles.
+Para todos los tejidos lo llamamos así.
+Como decía, los casos eran...
+Ya no somos más accesibles.
+Mucha gente se va, nuestra sala procebe, nuestro lugar donde...
+Antes de estar en todos los martes, era completamente distrito.
+Las herramientas eran adentro.
+¿Qué hicimos?
+Yo, Sara, Marco, fede, Matteo.
+Los hemos puesto a trabajar todo.
+Y esto lo veis en Duppoli.
+¿Y la erlota?
+Lo logramos.
+Por suerte los encontramos con todo.
+Hemos terminado todos dentro de una tendencia, en una tendencia a la seda de manitis, de finales milenarias.
+¿ Dentro de ese tono?
+Hubo cosas magníficas.
+Vimos el miedo sumando más fuerte.
+Porque la banda un libro le sonaba más fuerte del terremoto, nos miraba a los ojos.
+¿Con la Tierra que se vivía?
+Para buscar...
+¿Un sonrisa?
+Una mirada.
+Es la Tierra temblando.
+Ahí adentro.
+Hemos construido las primeras herramientas.
+El nombre de ciencia ficción.
+Se convirtieron en las cajas deanda.
+¿Qué pasó?
+UU. hay herramientas construidas y combinadas con raíces de ping pong.
+Las lágrimas, con las más grandes de ellas, se crucan.
+Era contenta.
+En la continuación, siempre, había una energía increíble.
+Incluso si estábamos en un momento horrible.
+Ahí adentro nació nuestro primer protocolo.
+Decidimos...
+Poner en un verdadero espectacolo.
+Mientras que los componentes del grupo estaban aumentando, los amigos pasaban la palabra.
+De 20 años, nos convertimos en 25, 30, 50.
+Empezamos con la construcción del primer spettacolo: el blanco.
+Porque es el blanco, porque había lujos más pequeños, los lujos más grandes y el capo blanco.
+En ese momento todos nos movíamos juntos.
+Como un blanco de ratones.
+Después vino después.
+Lo hicimos.
+El año después hicimos el otro espectacular, la curva.
+Nos volvimos todos marinos.
+Porque realmente queríamos navegar.
+Y nos colocamos también un momento de nuestra Tierra.
+Para respirar un rato.
+El año después ya estábamos cracks, esto les muestro marino.
+El momento siguiente...
+¿50 orlantes, este barco volante?
+Y para terminar el mar de este año, el mar de la Luna.
+Dejar de la luna.
+Nos hemos visto detener un segundo en esta Luna y mirar.
+El mar.
+Pasaron muchísimas cosas dentro de esta tendencia.
+¿Y ninguno de nosotros hubiera pensado que es una tendencia?
+Nos pudo cambiar la vida.
+Lo hemos hecho.
+Pero quiero decirles algo.
+Los adultos están terminando.
+Todo lo que hemos hecho en estos siete años me parece verdaderamente una cuento.
+150 conciertos a la vuelta para la educación.
+¿El cerdo del primer juez?
+El concierto en el programa de televisión a casa amica.
+¿Y el parco de materias?
+Y hemos hecho realmente bastantes.
+Y también me quitan las divisiones, porque yo soy yo.
+Es exactamente el ritmo de la vida.
+La fatal, el sudo, pero también...
+Esta es la fresca.
+Que tenemos tantas posibilidades y futuro.
+¿Qué pasa cuando un sueño?
+De verdad.
+Ahora tengo que volver a las ruinas negras.
+¿Me esperan?
+¿Qué es lo que todavía hay?
+Y de construir.
+Gracias a todos.
+(Aplausos) Uno, dos, tres.
+Uno, dos, tres.
+Buenas tardes.
+Mi nombre es María Cristina Firadini, en realidad me he venido acercando, hasta el momento en que me he dado cuenta de lo que ha pasado en los últimos 250 años.
+Bueno, yo soy...
+250 años muy importantes que han cambiado radicalmente nuestra historia y que nosotros vivimos hoy en día.
+¿Qué se habla de innovación social?
+Y mi pregunta es: ¿qué es esta innovación social?
+Y sobre todo, nuestra Italia, que muchas veces es tan biasimada, es un país pronto a incorporar esta innovación digital y lista a ser tejida a su alrededor de innovación.
+Pero esta es la foto digital: todos los que estamos acompañados, cerca de nosotros, un evento, creo así todo.
+El teléfono es una solución tecnológica que pertenece a la evolución industrial, que de hecho incorpora una evolución extraordinaria de atravesar estos 250 años, es un ordenador evolutivo, y el ordenador pertenece en cambio.
+La revolución Internet está conectada, y una vez más, esta es una invitación de la revolución Internet de la etapa interna de nuestra historia, sin embargo, estos tres factores juntos, unidos a la movilidad, nos hacen entrar en una nueva época, que tenemos, de alguna manera, estrictamente, amenazados arbitramente en los 2000, que hoy estamos viviendo.
+Pero vamos a entender, entonces, ¿qué ha pasado en estos 250 años, que han caído?
+La revolución industrial, la revolución de Internet y de Internet, los vindados a Internet, la ricoramos como una ferrovia.
+¿Qué es lo que me hemos estudiado?
+Soy de los libros de cole, en realidad no ha sido solo un hierro: nosotros, a la Revolución Industrial, somos testigos enormes, habitualmente somos escritivos, por ejemplo, porque a ella tenemos que usar un motocicleta en vapore.
+Y el motor de vapore no solo es un motor de vapor, sino que es por ejemplo la herramienta que ha favorado, y que ha sido mucho más rápido, la estación del carbono.
+Y la respuesta posible a un costo libremente inferior, y después la motocicleta vapor entró en los cuerpos, entró en las funciones, y comenzó a cambiar la modalidad, pero no producía.
+Y nosotros no solamente tenemos que movernos de motocicleta.
+El sabor también tiene que ser un motor de tripa, porque además es un invento tunecino, es un invento italiano, un motor de tripa.
+Y nosotros tenemos que, por ejemplo, la industria automovilística.
+En realidad, antes, la industria nacional, porque la motocicleta era un motor que no podía a partir de hierro, cuando logré entender cómo hacer que esa cintura funcionara también a partir de verbo y además a esa cinturón que desarrolló la industria automovilística, que es todo lo que se logró.
+Pero no.
+Y a la Revolución Industrial todavía somos adherentes, por ejemplo, por el teléfono, el teléfono no es sólo con la herramienta que nos ha permitido evitar, seguir viendo nuestras letras, desde una parte al otro del mundo, siempre más amplio que conocía.
+Pero también es lo que nos ha permitido.
+Y nos ha enseñado a depositar los caballos.
+Soplen.
+Y sí, porque después del teléfono lo podíamos probar en el mar y entonces ¿qué hacíamos?
+Interrompemos todo.
+Fuimos avanzando, saliendo de caballos bajo el mar, el primer ceno para dar una dimensión cósmica ha sido tirado de artículos entre México y artículos de obvia, no solo dos poblaciones que salgan de acuerdo, sino que el primer culo se fue por ahí.
+Y somos alrededor de 1858.
+Y ahí está el teléfono.
+El teléfono, lo vivimos todavía hoy, sabemos que está, lo usamos, lo transportamos nuestra voz, en 187900 derrotados a Roma.
+Solo en 1877.
+Otra intención es la energía eléctrica, la primera central eléctrica.
+En Europa fue construida por Santa Radagonda, donde está la Rinascente Milano.
+Hoy hay el último dato: ahí se construye un tiempo en 1873 la primera central eléctrica.
+En ese año, el 30 de diciembre fue iluminado por escala.
+Es una parte de nuestra historia, es natación juguete.
+Pero vamos avanzando, vamos a hacer unas salidas un poco más largas, y llegamos a 1950, la idea ya ha crecido y ha sabido un cierto agio, por otro lado ha sido un secolo.
+Que todavía está a lo largo de la carrera, pero que ya ha vivido experiencias importantes y también importantes emocionales desde un punto de disistencia cultural, pero empieza a nacer algo, a contar algo que nunca había estado en la historia anterior: son el ordenador, que son los colaboradores.
+Los colaboradores que a principios de los años 50, se podrían estar en una habitación como esta, y tenían funciones de marcarcolo, simplemente le quitaban el cálculo.
+Pero fueron avanzando y evolucionando de manera cada vez más significativa, cada vez más estructurada, cada vez más inteligente, y se convirtieron en contribuyentes de inteligencia, han empezado a ser la inteligencia artificial que nosotros conocemos.
+Pero en estos 50 años de la revolución de Internet pasó algo más, hubo momentos de investigación y, sobre todo, hubo tipos de tiburones y de defensas que han llevado a desarrollar detectores terráneos, pero no sabrán que no se conocían.
+Ha en un cierto punto.
+Se decidió abrir estas letras.
+Y esas reacciones, que se llaman arpa, arpanet, la red.
+Y se convirtieron y empezaron a ser el World Web, que nosotros conocemos.
+Un sistema difundido, oral, no járquico, enormemente capturado, capaz de llevar información, de recoger información y eran solo 35 millones.
+No muchos.
+Pero hoy es en la orden de las decenas de mil millones, porque no estamos hablando solamente de las computadoras que nosotros utilizamos, sino de todos esos sistemas inteligentes que se conectan a la red para cargarle datos, para recoger datos o para trabajar datos.
+¿Y cuando la fuerza mecánica?
+Fue, como diría, sustituyó, que fue introducido por la revolución industrial.
+Empezó a disminuir la inteligencia artificial de la computadora.
+¿Y la movilidad?
+Y Internet tuvimos el oro que, si poco a poco, empezamos a vivir el oro que hemos vivido ahora, que estamos viviendo ahora, que es lo que se llama a la izquierda de Internet, y eso según un fenómeno de creación creativa.
+Para un proceso industrial, hay un proceso que nos dice que lo que es nuevo, progresivamente, destruye lo que es antiguo, porque hace falta un espacio, y vamos a ver mejor cómo es.
+Pero esta es la historia de los grandes números, de las grandes inventiones, pero hay una historia que es un poco más humana, que nos pertenece un poco más, en la que vamos a hacer una reflexión, vamos a acompañar.
+Era el 1863 cuando, de poco con el dinero, todavía no hacían los italianos.
+El ministro Minghetti, puesto finanzas Mingetti, establece que el 27 del mes de julio, ya está organizado, el pago son dependientes públicos.
+Y a partir de los 27 meses siguientes, después, eso pasó.
+Y en este momento, aunque no lo aceptamos, estamos introduciendo ministros enormes desequilibrados, esto está introduciendo algo extraordinario.
+Pero antes la riqueza de una familia, más que un mono, estaba en su capacidad de producir bienes raíces, que eran necesarios para su sustento.
+Con la seguridad del pago, la certeza del pago, el hecho de que el pago era menos rechazoso de las estaciones, menos rechazoso del entrenamiento, empezaba de alguna manera alejándose de la tierra.
+Y, sobre todo, sobre todo.
+Transformó el poder económico de poder de producción.
+De bienes y de servicios, en el poder de producción de uno.
+Bueno, el dinero.
+Pero hay un segundo punto.
+¿Qué es el segmento?
+Pero para las mujeres, evidentemente, ha sido una revolución que nos ha leído bastante.
+Pero con lo que efectivamente fue el quinto.
+Es que no solo es esa herramienta que nos libera de la urgencia de ir a hacer esa promesa todos los días, sino que es ese sistema industrial que nos permite conservar.
+En forma masiva, una manera estructurada, en forma sano, en la cantidad de alimentos.
+Y entonces, tenemos la posibilidad, una vez más, de concentrarnos en algo que no es.
+Inmediatamente, la emergencia del día a día.
+Y ese es el hombre el que empieza.
+A vivir a la fin del año 900, somos nosotros.
+Y en el tiempo, ¿cómo hemos dicho?
+Llegan las computadoras y llegó Internet, y entonces hay un número que ha caracterizado estos años, es decir, un elemento que podemos definir como elificador de estos años: la velocidad.
+Nosotros hace 250 años no éramos velocidades como lo somos hoy, nosotros hacemos cosas muy rápido y nos movemos rápidamente la velocidad, la velocidad de las reacciones, la velocidad de los movimientos, la velocidad de nuestro pensamiento, que no es el detalle del pensamiento, pero somos muy rápido.
+Pero hasta cuando pasó algo.
+Prácticamente se acerca cuando se guarda la historia, de entender los pasajes de un siglo al otro y viendo unas date que no son necesariamente cero.
+En 1900, 1900 al 2000, cuando podemos decir que se acabó el siglo XX, yo creo, pero esto realmente es un beliedo orbitrario que hay dos fecha que son significativamente seguros en el paso de un horizonte de un otro, el 2001 y el 2001 porque inanzitativo.
+La economía americana comenzó a asalentizar, el por otro están en Torri Gemelli, y por tanto algo en los equilibrio comenzó a cambiar, estos equilibrio que pareceían solidos, estamos acostumbrados a ser muy frágiles.
+Pero nos vamos avanzando hasta que ha habido algo que normalmente se ha despertado, la crisis económica más grande que el mundo occidental y el mundo oriental juntos nunca se ha encontrado, no solamente América se ha despertado, casi cerrado, también es el Oriente.
+En cambio, había europeos que estaban por caer, la güira ya era la línea del fallo, no les hablaban, pero aún ahí.
+Y he cambiado algo.
+Pero tú que lo has cambiado, ha cambiado el paradigma económico, nosotros no lo podíamos.
+No esperemos la crisis económica más grande, que efectivamente se comprobó en el 2008 fue una locura pensarnos, pero cómo podíamos no imaginar una crisis de esa dimensión, cuando podemos hacer todo.
+Con muchas menos personas.
+Era obvio que esto iba a suceder.
+Hemos sidoechados en no saber esperarla, guardar esas impresas.
+¿Y esta impresión?
+Porque son multinacionales renovables en su mayoría, pero sobre todo son todas las que están dadas desde el 2011.
+¿Y qué han hecho estas empresas, no se han innovado?
+Empezando por algo, no han innovado en construir algo que antes no había, pero han empezado a hacer lo que siempre hemos hecho, comprar, vender, viajar, aprender.
+Tenden.
+El modo distinto, el modo más eficiente.
+Y le contestó: "¿Venga?
+Así es como lo han denigado muchas veces.
+Hemos intentado mirar el estado de salud y Italia digital, según cinco factores: la conectividad, somos diez puntos porcentaje debajo de la media, pero, sinceramente, estamos casi cerca de una conexión veloz por 50 metros y así es poco.
+Entonces ya tenemos algo, según las competencias humanas de recursos humanos, las competencias de curarnos de un ser diferente entre competencias avanzantes y competencias basadas, las competencias basadas en lo que nos permiten fluir.
+Hay sistemas informáticos, sistemas digitales, avanzados, que nos permiten desarrollarlos.
+Y un tercio factor que tenemos que mirar es el uso de Internet, lo tenemos, pero lo usamos.
+Un tercio, un cuarto elemento.
+Es la inclusión del factor digital en los procesos productivos.
+Entonces, el comercio, la industrialización de productos y servicios, el quinto es la digitalización.
+Este es el sistema de publicación: extirpamos el campo de alguna ambiguidad y mantenemos los inicios dos que son importantes, y sobre todo una buena noticia para todos: todos, cada uno y cada cinco elementos están en crecimiento.
+Son todos los cinco elementos que están en un crecimiento, en una velocidad de crecimiento completamente atea hasta hace dos años, así que estamos bajando los países europeos, y esto no quiere decir nada.
+Pero en cambio, con conectividad, lo hemos dicho, 11 puntos arriba.
+Pero, objetivo, ¿hasta ver los periódicos y ver a quién?
+Estamos creciendo rápido, hay nuevos intercambios, nuevos operadores, nuevas competencias, se está construyendo un tejido y competitivo muy importante, el uso de Internet, francamente somos segundos verdaderamente aplicados.
+En realidad nació un cambio muy profundo que nos está acompañando a los estándares europeos: hay dos factores que tenemos que ver con mucha atención que van a ser claves para nuestro futuro de los países, y son las competencias y la inclusión del digital en los factores productivos.
+Y en eso tenemos que prestarle atención a las características de nuestro país, nosotros tenemos dos motores.
+¿El primer motocicleta?
+Es lo que ha hecho gran parte de la historia en los años 50 y son las pequeñas mediciones que tienen.
+Pero despiertos por ser, la pequeña media impresa.
+Algo que no sea útil, que no sea eficaz, que no sea comparable con las grandes multinacionales, en realidad.
+Son probablemente la herramienta emprendedora más eficaz para interpretar la velocidad del cambio: son agiles, son velocidades, son pequeñas.
+Y saben hacer algo extraordinario que es el "Made in Italy", que tiene una calidad, una eccellencia en la producción de servicio en la producción de producto.
+Que es lo suficientemente 'cool' en su casa, que todos lo queremos.
+Lo único que tenemos que hacer es adquirir, insistentemente, las competencias dentro de esta realidad, porque esas realidad se pueden convertir en esas multinacionales que pueden servir.
+Es un intero segmento.
+El mercado, de manera extraordinaria, generando riquezas por todo el tejido que vemos a nuestro alrededor, y ese es el primer aspecto que tenemos nosotros, el primer gran motocicleta, el segundo motor que en el mercado, es su patrimonio artístico.
+Bueno, un patrimonio que la naturaleza, por su naturaleza experiencia esencial, gracias a Dio, es un patrimonio analógico, y queda un patrimonio analógico, no podemos digitalizar el cultivo.
+¿Pero es posible que los turistas?
+Visidos no solo tres ciudades.
+Venía, Firmed Rome, y luego llené.
+Pero las riquezas de estas tres ciudades no hacen la riqueza de nuestro país.
+Y nosotros estamos aprendiendo, quizás podamos empezar, pero somos capaces de recuperar, de incluir.
+Este patrimonio dentro de un sistema de conocimiento que nos permite llevarlo y hacerlo nieto y llevarlo al turismo no solamente a visitar tres centros, sino a visitar todo nuestro país.
+Yo creo que esa es tu gran alcalde que podemos hacer a nuestra Italia.
+El tema que descubrí.
+Yo hablaba yo en un cierto sentido, y el contrario de la palabra.
+¿Qué unifica?
+¿Y todo esto?
+Nuestro inconto es el contrario de la palabra "share", porque yo les voy a hablar no de compartir, pero en un cierto sentido, al contrario de la compartir, que es la desigualdad.
+Hablaré de desigualdad, me gustaría empezar de otra manera.
+Con una pregunta.
+¿Pero si alguien os preguntara?
+La bruja perdere.
+En segundo lugar, en los últimos años.
+15, 20 años.
+Dicimos en el siglo XXI.
+Las desigualdades en el mundo, las desigualdades de ingreso en los ciudadanos del mundo se incrementan, pueden disminuir.
+Pero yo creo que la mayoría de Uds. respondería.
+Se han aumentado, si se han hecho periodistas, mejor se van a añadir.
+El agresivo, prezemolo.
+Se han incrementado de forma exponencial.
+A: Es yo.
+Os preguntaréis: "¿Pero si está en Italia?"
+Quizás la respuesta de muchos sería también.
+Me he puesto estas preguntas en los últimos años y con...
+Solo las 24 horas son la fundación de los videojuegos.
+Preparé con mis compañeros un informe.
+Surge desigualdades, a partir de cuando sean datos, es decir, financialmente desde 1960.
+Para la mayoría de los países del mundo.
+- Sí.
+El resultado es el que...
+Esta es la curve.
+La abandonación de la desigualdad de renta sobre los ciudadanos del mundo, como ven, fue un aumento de las desigualdades, sobre todo en los años 80 pero a partir de ahí.
+Antes de fines del siglo pasado, a fines de los años 90.
+La desigualdad que se comporta de los ciudadanos del mundo se crucan y se precipitan ahora estamos en el ministro de tiempo.
+¿En Italia?
+En Italia, debido a la desigualdad son bastante complicadas, incluso aquí tenemos un incremento a lo largo de los años 80, pero en los últimos 20 años, prácticamente desde el inicio de la segunda República.
+AC: Nosotros tenemos una tendencia de desigualdad del creciente.
+¿Cómo podemos leer estos datos?
+Bueno, una posible lección es la de decir: hemos tomado un ingreso total, porque seguimos hablando desde años de incremento de desigualdades en cuanto a los datos no soportan esta sensación.
+Y hay muchísima duda, en esta lectura, pero también podemos hacer otra pregunta: ¿Y si la sensación de un aumento de enfermedades que muchos de nosotros mismos?
+¿No lo tenemos?
+Y... no se equivocó la sensación, pero se equivocó la idea de desigualdad en la que...
+Nosotros razonamos.
+¡Felicidades!
+Tenemos que reflexionar sobre el tema de desigualdad: ¿en qué queremos?
+Para desigualdad.
+¿Puede ser el tema de desigualdad?
+Queda otra vez.
+Vamos cada vez más a sugerir esa pregunta y vamos a marcarnos de alrededor de un siglo.
+Y también de ahí, vamos a Cambridge en 1928.
+Un año antes de la crisis de 29: Lickens.
+Que si Cambridge se pronuncia una charla delante.
+A un público de estudiantes, un discurso que resultó ser famoso con el título de "posibilidad económica" para nuestros nietos, en esa ocasión, Keynes formula dos profesores.
+La primera dice.
+Era un sector, la productividad.
+Pero de una hora trabajarán...
+O ocho veces la de hoy, es decir de 1928.
+Y esta profecía, efectivamente, se ha realizado, porque si usted está a la toma.
+Las retruciones de los almacenadores de la economía.
+Efectivamente, en la mayoría de las empresas avanzan, nosotros tenemos un incremento de productividad a lo largo de 100 años que también...
+Decíamos, 12 veces, en algunos casos 15 veces, entonces esta profecía se hizo, pero de esa profez Keynes también llenaba una consecuencia, una idea, es decir, que la humanidad...
+De ahí a poco, es que ahí se hace por decir, a poco a 100 años, se iba a encontrar con una enorme cantidad.
+El tiempo libre que la hubiera llevado a...
+Lavorar menos.
+Y también le decía, trabajar a todos, y cuando le decía que menos quería mucho menos, le daba una semana de 15 horas de trabajo.
+Pues bien, yo tengo un horario de tres horas de trabajo al día.
+Y él veía un problema para esto, porque la pregunta que hacía Keynes pero con todo ese tiempo libre pudimos usarlo bien o no.
+Bueno.
+Aparentemente, tu segunda fea no se ha hecho realidad.
+Porque lo vemos todos, que no trabajamos todos, y no parece que trabajamos tres horas al día.
+Pero yo...
+Os voy a dar cuenta de que esta profe está dividida en dos partes, hay una que dice que todos vamos a trabajar, es seguro que es falso, pero la primera parte.
+Nos vamos a acordar mucho menos, vamos a trabajar tres horas al día: estamos seguros de que no se realiza de ninguna parte, vamos a ver esos sucesos flotados.
+Esta es la primera prueba.
+La curva, o esta propiedad, es la fracción de tiempo.
+¿Qué es un italiano medio?
+Llega al trabajo a lo largo de su vida.
+Su vida, naturalmente, potencialmente laboral, es decir, de 15 años y medio, cuando somos...
+Además de tener un trabajo, pues si nosotros conservamos esta carrera, la profe de Keynesi en realidad se realiza.
+Porque nosotros llegamos al principio del noviembre, casi el 40 % del tiempo de nuestra vida a trabajar.
+Y ahora lo tenemos alrededor del 16 %, lo interesante es que ese 16 %.
+Ya está.
+Dos horas y cuatro al día, es decir, la barrera de las tres horas, en Italia, ya la hemos colocado.
+¿Curalmente?
+Si esto ha ocurrido, también hay razones.
+Oos y si queréis subir, por ejemplo, la vejez se está llevando normalmente.
+Porque morimos mucho después de que la esperanza de vida y los que se eligieron algo como 27 años desde principios por siglo XX, desde 19900; hay otra razón, fue muy positiva y, mientras tanto, se estudia hasta 25 y 30 años, entonces también la joven se juntó.
+(Risas) Pero hay una razón, quizás, más fundamental, por eso.
+¿Su quota de tiempo?
+Dedicada al trabajo y a la croqueta.
+Y es.
+La cultura del tasa de ocupación, es decir, del número de personas.
+¿Qué lavora?
+Esta es la serie almacena del taso de ocupación total.
+Es ricostruidos por esta ocasión.
+Y esta serie de almacénicas dramáticas, porque os hace ver, ¿qué?
+A principios del siglo XX, en toda la órbita monárquica, antes de la Segunda Guerra Mundial, el índice de ocupación era incluso más.
+Les juro que el 70 %.
+Hoy somos muy bajos, somos alrededor de 50 grados, viejitos.
+A partir de 1968 pasó un año.
+El sistema de ocupación siempre ha sido inferior al 50 %.
+¿Pero una tasa de ocupación?
+Bajo el 50 %.
+¿Qué significa esto?
+Quiere decir que son más las personas que no trabajan, que no las personas que trabajan, es decir, los consumidores naturales que no entienden una renta.
+Muy bien, trabajé.
+¿De frente a esto?
+Fútbol de esto: nosotros también podemos tener una reacción.
+Pero es entusiasta, y decir: ¿Pero esto?
+El progreso, la belleza, es la modernidad.
+Las cosas han ido así, porque lo podemos permitir, pero entonces vemos si en el país el emblema de la modernidad, es decir en Estados Unidos las cosas se han ido del mismo modo, porque si esta interpretación es justa, tiene que ser también en Estados Unidos, y entonces vemos la cara.
+Buenas tardes.
+En Italia.
+Hubo unidos.
+Esta es la serie de tiempo.
+Lo he dedicado al trabajo en la vida, como veis, y Estados Unidos solo calza hasta los años 30 y luego se estabiliza, porque hay una leyera tendencia al argumento mientras nosotros.
+Por supuesto, lo más impresionante es la serie de almacenadas del taso de ocupación, porque aquí lo vemos.
+Hay un incremento, lo que veis desde abajo es la crisis del 29: nosotros tenemos una tendencia general de la tasa de ocupación en EE.UU., en este caso, tenemos una situación.
+Ridución.
+En la tasa de ocupación.
+¿Pero entonces esa?
+El espacio es una patología.
+No es normal.
+¿Por qué?
+Son más las personas que consumen sin producir que las personas que producen.
+No es normal que la mayoría de la población viva en una condición que yo he definido.
+Dipendencia parásitaria, dependencia, porque según la renta básica de tu esposa.
+Esto también puede ser un familiar, el Estado.
+Pero parásito, ¿por qué yo consumo?
+Tengo el ingreso disponible sin trabajar.
+Yo soy amigo que hace el teatro.
+¿Cuándo me encontré con estos resultados?
+Estábamos en la escena y les pedí.
+¿Y tú, cómo representás esta situación con una imagen, una situación de dependencia parásitaria?
+Y él sabe lo que me respondió.
+Con el Epopopopopopopopotenso es ese alucelino.
+Que vive en las playas del Epopopopopotrama y que se llama buffago, algunos dicen bufaga, eccolo aquí.
+Si queréis tener una idea de cómo se comporta.
+El bufón o la bufanda en el bufón, o en los otros grandes mamíferos, estos asesinos también viven en los rinocerontes, en los buffales, tenemos esta película.
+¿Qué va a pasar por unos segundos en los que veis?
+Estos son los que están viendo.
+Animalizados, estos matellinos.
+¿Cómo viven?
+Salviendo de los recursos que...
+El bufón nos provee, que son insectos, larvas, pieles todo lo que alberga en la dorsa del bufón, no es tan claro si el bufón es que está infastado por el hellino.
+No importa lo que sea.
+Ese es el sociólogo, entonces la pregunta que yo me hice como sociólogo.
+Y es otra cosa: cómo podemos definir una situación de este tipo, cómo definimos una sociedad en la que hay mayor cantidad de consumidores puros y una minoría de productores.
+Hay este tipo de consumo improductivo: la primera, ahí por ahí, me dije: ¿Pero esta es la sociedad signal?
+La sociedad signal como las sociedades feudales en las que hay un objeto que ha puesto en la condición de vivir sin trabajar.
+(Risas) Pero, por supuesto, no basta: hay que agregar una cualificación.
+¿Qué se puede definir?
+En la sociedad signorial, pero en una sociedad firme de masa.
+- ¡Eh!
+Porque los consumidores son más que los productores.
+En la sociedad de signos sencillos, clásicos, nosotros tenemos el signo y los servicios de la grieta que producen por él, en la sociedad.
+Y aquí el informe es claro, es una relación de comando y de sumisión: en la sociedad signal de masa las cosas son un poco más complicadas, los signos se han convertido muchos y...
+La relación entre los signos y los productores es mucho más complicada: griego Dubezon, un gran antropólogo psicólogo, el oído podría definir una relación de doble impacto en las partes, vemos por qué.
+¿La relación?
+Y es el bufón con el hidromo y el parásito, y esto es una ventaja en verde, pero también es de dependencia, porque depende del alimento que está.
+En la piscina del Epopopopotomo, el frío rojo indica un desventaja.
+Y también desde el punto de vista de los productores, volvemos a tener una fría roja, una fría verde: el Epopopopopopopote es autónomo, no hace falta un bufador.
+Porque no podemos, no podemos arpodama, no alimentar a los animales que viven en las tribunales, por lo tanto la situación es muy compleja, y esta es una situación de doble empleo, pero una situación.
+Que no está bien.
+¿Es una situación en la que?
+¿Qué es?
+Un nuevo problema de desigualdad, y ahora llegamos.
+La pregunta que yo había hecho hablando de Keynes: hoy quizás, la veracidad de desigualdad y desigualdad de acceso al trabajo.
+El acceso al trabajo es muy asimétrico en nuestro sistema social, pero si la desigualdad es de acceso al trabajo podemos utilizar las herramientas de la narices de la desigualdad, es decir, construir un coeficiente de concentración de genes que la herramienta con la que se mide de desigualdad la que podemos aplicar en el trabajo, hay personas que no trabajan, que tienen medio de trabajo, que tienen dos trabajadores.
+Y la posición del artista, en esta escala de desigualdad de ingreso al trabajo, es dramático: la posición del año pasado es ser penulenciada en la graduación, juntos?
+Esta es Turchia.
+El país en el que la desigualdad llegue a alcanzar el máximo, pero simplemente porque hay la exclusión de las mujeres, si fuéramos un país islámico, probablemente tengamos la palma de este participante, la mejor situación, la de la Unno playa, con los Estados Unidos, en medio.
+Nos falta para convertirnos en un país Ox, normal, 7 millones de puestos de trabajo.
+¿Cómo llegamos a esto, esta es la historia?
+En la desigualdad de acceso al trabajo en Italia, siempre medidas en ese eficiente digno, veis una cosa muy abrumadora, que la desigualdad es la minima en los puestos de trabajo más, en nuestras familias.
+Adaptarían.
+Miles de euro al mes, además tendríamos 12 000 euros de ingreso en más o menos.
+El año.
+Y nuestro estado tendría 150 000 millones de euros para pasar, tanto como se costan la sanidad y la escuela puesta junto, más o menos en Italia, pero aquí concluyen que hay un objetivo.
+Hola.
+Tenemos el beco de escribir en el primer artículo de la Constitución, el modelo es una República democrática basada en el trabajo, somos el único país.
+Quien tiene esto en el primer artículo de la Constitución, y somos el grangio país junto con la Turquía del Occidente.
+Por eso.
+O cambiamos las cosas.
+Y creamos los siete millones de puestos de trabajo que faltan.
+O quizás es mejor romper el artículo uno de la Constitución.
+Porque, cuando estás ahí, las cosas son como una BEFA.
+Gracias.
