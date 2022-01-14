@@ -16,7 +16,7 @@ VAD Toolkit_3: https://github.com/wiseman/py-webrtcvad
 
 mTEDx test and validation corpora: http://www.openslr.org/100
 
-kaldi toolkit: https://github.com/kaldi-asr/kaldi
+Kaldi toolkit: https://github.com/kaldi-asr/kaldi
 
 Machine translation and speech recognition/translation was done by employing the framework https://github.com/nlp-dke/NMTGMinor
 
