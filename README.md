@@ -8,11 +8,11 @@
 
 Presentation containing all BLEU scores and additional graphs: https://docs.google.com/presentation/d/1WqdPUqvJ0g0qn6PVGymANBHndMhTnmZ1AXZiSIEHcNo/edit?usp=sharing
 
-Toolkit_1: https://github.com/NickWilkinson37/voxseg
+VAD Toolkit_1: https://github.com/NickWilkinson37/voxseg
 
-Toolkit_2: https://github.com/ina-foss/inaSpeechSegmenter
+VAD Toolkit_2: https://github.com/ina-foss/inaSpeechSegmenter
 
-Toolkit_3: https://github.com/wiseman/py-webrtcvad
+VAD Toolkit_3: https://github.com/wiseman/py-webrtcvad
 
 mTEDx test and validation corpora: http://www.openslr.org/100
 
