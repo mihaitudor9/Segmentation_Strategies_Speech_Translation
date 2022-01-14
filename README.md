@@ -18,5 +18,7 @@ mTEDx test and validation corpora: http://www.openslr.org/100
 
 kaldi toolkit: https://github.com/kaldi-asr/kaldi
 
+Machine translation and speech recognition/translation was done by employing the framework https://github.com/nlp-dke/NMTGMinor
+
 Manual Segmentations and reference translations can be found in the corresponding sets.
 The segmentations were performed using the three mentioned toolkits on a local machine. Next, the extraction of the MFCC features was performed on the same local machine by using the Kaldi toolkit. The resulting features (representing all the different segmentations) were uploaded on Google Drive. Then, through a GPU Hardware-accelerated Google Colab session,  the cascaded end-to-end and cascaded were employed for each segmentation.
