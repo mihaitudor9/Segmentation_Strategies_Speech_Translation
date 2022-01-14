@@ -2,6 +2,4 @@
 #B.A. thesis - Maastricht University#
 ##Mihai-Andrei Tudor##
 
-*Toolkit_1: https://github.com/NickWilkinson37/voxseg
-*Toolkit_2: https://github.com/ina-foss/inaSpeechSegmenter
-*Toolkit_3: https://github.com/wiseman/py-webrtcvad
+https://docs.google.com/presentation/d/1WqdPUqvJ0g0qn6PVGymANBHndMhTnmZ1AXZiSIEHcNo/edit?usp=sharing
