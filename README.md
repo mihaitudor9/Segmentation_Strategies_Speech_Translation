@@ -17,6 +17,7 @@
 Manual Segmentations and reference translations can be found in the corresponding sets.
 The segmentations were performed using the three mentioned toolkits on a local machine. Next, the extraction of the MFCC features was performed on the same local machine by using the Kaldi toolkit. The resulting features (representing all the different segmentations) were uploaded on Google Drive. Then, through a GPU Hardware-accelerated Google Colab session,  the cascaded end-to-end and cascaded were employed for each segmentation.
 
+---
 |   <br>  <br> Language  <br> pair  | Best  <br> segmentation                                        | Segments <br> count       | Segments <br> Difference\*    | BLEU score  <br> Difference\*  |
 | :-------------------------------: | :------------------------------------------------------------: | :-----------------------: | :---------------------------: | :----------------------------: |
 | pt-es\_test                        | voxseg -s 0\.90                                                | 1294                      | 23\.5%                        | 17\.7%                         |
