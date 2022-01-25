@@ -33,6 +33,8 @@ The segmentations were performed using the three mentioned toolkits on a local m
 | es-en\_valid                       | webrtcvad -p 0 <br> webrtcvad -p 1                             | 1082 <br> 1117            | 11\.4% <br> 14.6% <br>        | 9\.5%                          |
 | pt-en\_test                        | voxseg -s 0\.90                                                | 1294                      | 23\.5%                        | 15\.1%                         |
 | pt-en\_valid                       | voxseg -s 0\.95 <br> inaspeech -r 0.05 <br>                    | 1139 <br> 1199 <br>       | 11\.7% <br> 16.8% <br>        | 16\.5%                         |
+
+
 Table displaying the best-found segmentation toolkit, the corresponding parameter, and the number of segments created. *The table also shows the percentage difference in segments counts and BLEU score compared to the scores given by the end-to-end translation model when utilizing the manual segmentation
 
 ### Dominating segmentation strategy when employing the cascaded translation model
@@ -49,6 +51,8 @@ Table displaying the best-found segmentation toolkit, the corresponding paramete
 | es-en\_valid                            | webrtcvad -p 1                                   | 1117                 | 14\.6%                      | 7\.7%                          |
 | pt-en\_test                             | voxseg -s 0\.90                                  | 1294                 | 23\.5%                      | 16\.6%                         |
 | pt-en\_valid                            | inaspeech -r 0\.05                               | 1199                 | 16\.8%                      | 17\.4%                         |
+
+
 Table displaying the best-found segmentation toolkit, the corresponding parameter, and the number of segments created. *The table also shows the percentage difference in segments counts and BLEU score compared to the scores given by the cascaded translation model when utilizing the manual segmentation.
 
 |   <br> Segmentation <br> strategy  | BLEU scores and \#segments counts <br> on E2E and Cascaded models  |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
@@ -61,5 +65,7 @@ Table displaying the best-found segmentation toolkit, the corresponding paramete
 | inaspeech -r 0\.15                 | 31\.6                                                              | 1478  | 31\.1 | 27\.8 | 1478  | 28\.3 | 26\.2 | 1228  | 25\.7 | 30\.2 | 1228  | 28\.1 | 36\.8 | 1574  | 38\.3 |
 | webrtcvad -p 2                     | 31\.7                                                              | 1142  | 31\.1 | 27\.6 | 1142  | 27\.7 | 25\.6 | 932   | 
 24\.5 | 29\.0 | 932   | 26\.8 | 37\.3 | 1440  | 39\.3 |
+
+
 
 Table displaying the BLEU scores and the corresponding number of segments on the Portuguese-Spanish, Portuguese-English, Italian-English, Italian-Spanish, and Spanish-English language pairs when employing five of the most dominating segmentation strategies and both the end-to-end and cascaded models.
