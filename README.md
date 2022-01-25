@@ -54,18 +54,3 @@ Table displaying the best-found segmentation toolkit, the corresponding paramete
 
 
 Table displaying the best-found segmentation toolkit, the corresponding parameter, and the number of segments created. *The table also shows the percentage difference in segments counts and BLEU score compared to the scores given by the cascaded translation model when utilizing the manual segmentation.
-
-|   <br> Segmentation <br> strategy  | BLEU scores and \#segments counts <br> on E2E and Cascaded models  |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| :--------------------------------: | :----------------------------------------------------------------: | :---- | :---: | :---: | :---- | :---: | :---- | :---- | :---- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Test set                           | pt-es                                                              |       |       | pt-en |       |       | it-en |       |       | it-es |       |       | es-en |       |       |
-|                                    | E2E                                                                | \#seg | Casc. | E2E   | \#seg | Casc. | E2E   | \#seg | Casc. | E2E   | \#seg | Casc  | E2E   | \#seg | Casc. |
-| voxseg -s 0\.90                    | 32\.9                                                              | 1294  | 32\.3 | 29\.4 | 1294  | 29\.3 | 25\.9 | 998   | 25\.0 | 29\.5 | 998   | 27\.7 | 37\.8 | 1110  | 39\.2 |
-| voxseg -s 0\.95                    | 30\.9                                                              | 1602  | 30\.6 | 28\.2 | 1602  | 28\.0 | 26\.7 | 1223  | 25\.5 | 30\.2 | 1223  | 27\.9 | 36\.6 | 1369  | 38\.3 |
-| inaspeech -r 0\.05                 | 28\.7 <br>                                                         | 977   | 28\.6 | 25\.7 | 977   | 26\.1 | 23\.6 | 902   | 23\.6 | 27\.1 | 902   | 25\.6 | 38\.4 | 1288  | 39\.5 |
-| inaspeech -r 0\.15                 | 31\.6                                                              | 1478  | 31\.1 | 27\.8 | 1478  | 28\.3 | 26\.2 | 1228  | 25\.7 | 30\.2 | 1228  | 28\.1 | 36\.8 | 1574  | 38\.3 |
-| webrtcvad -p 2                     | 31\.7                                                              | 1142  | 31\.1 | 27\.6 | 1142  | 27\.7 | 25\.6 | 932   | 
-24\.5 | 29\.0 | 932   | 26\.8 | 37\.3 | 1440  | 39\.3 |
-
-
-
-Table displaying the BLEU scores and the corresponding number of segments on the Portuguese-Spanish, Portuguese-English, Italian-English, Italian-Spanish, and Spanish-English language pairs when employing five of the most dominating segmentation strategies and both the end-to-end and cascaded models.
