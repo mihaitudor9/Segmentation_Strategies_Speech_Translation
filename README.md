@@ -1,5 +1,8 @@
 # Segmentation Strategies
 
+This project consisted of comparing three popular VAD toolkits and understanding the outcome of applying automatic segmentations on a state-of-the-art multilanguage translation model compared to a cascaded one.
+
+
 - Presentation containing all BLEU scores and additional graphs: https://docs.google.com/presentation/d/1WqdPUqvJ0g0qn6PVGymANBHndMhTnmZ1AXZiSIEHcNo/edit?usp=sharing
 
 - VAD Toolkit_1: https://github.com/NickWilkinson37/voxseg
