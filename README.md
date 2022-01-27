@@ -2,6 +2,7 @@
 
 This project consisted of comparing three popular VAD toolkits and understanding the outcome of applying automatic segmentations on a state-of-the-art multilanguage translation model compared to a cascaded one.
 
+![Screenshot](ted_banner.jpg)
 
 - Presentation containing all BLEU scores and additional graphs: https://docs.google.com/presentation/d/1WqdPUqvJ0g0qn6PVGymANBHndMhTnmZ1AXZiSIEHcNo/edit?usp=sharing
 
@@ -15,7 +16,9 @@ This project consisted of comparing three popular VAD toolkits and understanding
 
 - Kaldi toolkit: https://github.com/kaldi-asr/kaldi
 
-- Machine translation and speech recognition/translation was done by employing the framework https://github.com/nlp-dke/NMTGMinor
+- Machine translation and speech recognition/translation was done by employing the framework: https://github.com/nlp-dke/NMTGMinor
+
+- The end-to-end and cascaded multilingual translation models: https://aclanthology.org/2021.iwslt-1.15/
 
 Manual Segmentations and reference translations can be found in the corresponding sets.
 The segmentations were performed using the three mentioned toolkits on a local machine. Next, the extraction of the MFCC features was performed on the same local machine by using the Kaldi toolkit. The resulting features (representing all the different segmentations) were uploaded on Google Drive. Then, through a GPU Hardware-accelerated Google Colab session,  the cascaded end-to-end and cascaded were employed for each segmentation.
